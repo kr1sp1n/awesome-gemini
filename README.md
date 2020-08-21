@@ -1,4 +1,4 @@
-# Awesome Gemini [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Gemini [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A collection of awesome things regarding the [gemini protocol][1] ecosystem.
 
 Please contribute to this list to link to all the awesome gemini projects out there.
