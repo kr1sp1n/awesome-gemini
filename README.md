@@ -26,6 +26,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - a graphical Gemini client using GTK
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - a graphical Gopher and Gemini client using QT
+- [Deedum](https://github.com/snoe/deedum/releases) (Dart/Ruby) - An Android client
 
 ## Programming
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib
