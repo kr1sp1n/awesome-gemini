@@ -32,6 +32,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 
 ## Programming
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib
+- [gig](https://github.com/pitr/gig) (Go) - a Gemini framework
 
 ## Servers
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol
