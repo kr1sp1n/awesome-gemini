@@ -31,6 +31,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - a "fancy" terminal client
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - a Gemini client derived from the popular VF-1 Gopher client
 - [Bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - a combined Gopher and Gemini client with vim-inspired key mappings
+- [diohasc](https://repo.or.cz/diohsc.git) (Haskell) -a simple line-based command-response terminal user interface with ANSI colour
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - a combined Gopher and Gemini client for the popular text editor / operating system
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs
 
