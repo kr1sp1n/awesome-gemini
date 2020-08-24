@@ -53,6 +53,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - a simple Gemini server for static files
 - [blizanci](https://github.com/mk270/blizanci) (Erlang) - a server designed primarily for robustness and security
+- [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - a simple Gemini server written using Deno and Typescript
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - a server to facilitate easy Gemini-Gopher bi-hosting
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C
