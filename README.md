@@ -59,6 +59,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - a server with features like vhosts, CGI, SCGI, reverse-proxying and more
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type
+- [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - a full-featured Gemini server implemented in Go
 - [Shavit](https://git.sr.ht/~yotam/shavit) (Go) - a configurable Gemini server for UNIX operating systems
 
 ## Tools
