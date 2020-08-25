@@ -36,11 +36,12 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs
 
 ### Graphical
+- [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) - (Electron.js) - a peer to peer web browser with support for loading Gemini pages
 - [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - a graphical Gemini client using GTK
 - [Deedum](https://github.com/snoe/deedum/releases) (Dart/Ruby) - an Android client
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - a graphical Gopher and Gemini client using QT
-- [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) - (Electron.js) - a peer to peer web browser with support for loading Gemini pages
+- [Två](https://www.oppenlab.net/pr/tva/) (Kotlin/Java) - a Gemini protocol client for Android based OS
 
 ## Programming
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib
