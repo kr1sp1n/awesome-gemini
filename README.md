@@ -50,6 +50,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification
 - [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - a list of Gemini software
+- [transjovian.org/gemini](https://transjovian.org:1965/gemini/) - a wiki space dedicated to Gemini communities and software
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - a simple Gemini server for static files
