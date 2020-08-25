@@ -41,6 +41,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Deedum](https://github.com/snoe/deedum/releases) (Dart/Ruby) - an Android client
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - a graphical Gopher and Gemini client using QT
+- [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - a Gemini browser running on Electron
 - [Två](https://www.oppenlab.net/pr/tva/) (Kotlin/Java) - a Gemini protocol client for Android based OS
 
 ## Programming
