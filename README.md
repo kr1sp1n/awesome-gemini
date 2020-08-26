@@ -64,6 +64,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - a server to facilitate easy Gemini-Gopher bi-hosting.
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol.
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C.
+- [geminid](https://www.upyum.com/cgit.cgi/geminid) (Scheme) - a Gemini Server in CHICKEN Scheme.
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - a server with features like vhosts, CGI, SCGI, reverse-proxying and more.
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - a server written in Prolog.
