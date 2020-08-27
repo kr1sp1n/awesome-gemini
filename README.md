@@ -73,9 +73,9 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Titan](https://github.com/jahzielv/titan) (Rust) - a simple TOML-configured Gemini server and an Express-like Gemini server framework.
 
 ## Tools
-- [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) - a lua filter for pandoc to output Gemini text.
+- [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
-- [gloggery](https://github.com/kconner/gloggery) - basic static site generator for blogs in Gemini.
+- [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 
 ## Web proxies
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
