@@ -59,6 +59,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 
 ## Programming
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib.
+- [gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
 
 ## Resources
