@@ -39,6 +39,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - a combined Gopher and Gemini client for the popular text editor / operating system.
 - [gemini-demo-1](https://tildegit.org/solderpunk/gemini-demo-1) (Python) - a minimal but usable interactive Gemini client in < 100 LOC of Python 3.
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - a minimal but usable interactive Gemini client in < 100 LOC of Lua.
+- [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - a minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs.
 
 ### Graphical
