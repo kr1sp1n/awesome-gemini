@@ -94,6 +94,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 
 ## Web proxies
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
+- [Soweli Lukin](https://alexschroeder.ch/soweli-lukin)
 - [Vulpes proxy](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/)
 
 ---
