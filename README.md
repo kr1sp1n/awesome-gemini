@@ -48,6 +48,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 - [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - a graphical Gemini client using GTK.
 - [Fafi](https://git.sr.ht/~soapdog/fafi-browser) (Racket) - a graphical Gemini browser written in Racket.
+- [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - a desktop GUI client with inline image viewing, multiple tabs, bookmarks and more.
 - [Moonlander](https://sr.ht/~admicos/moonlander/) (Rust) - the fanciest Gemini client in the entire solar system.
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - a graphical Gopher and Gemini client using QT.
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - a Gemini browser running on Electron.
