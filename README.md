@@ -41,6 +41,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - a minimal but usable interactive Gemini client in < 100 LOC of Lua.
 - [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - a minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs.
+- [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 
 ### Graphical
 #### Cross-platform
