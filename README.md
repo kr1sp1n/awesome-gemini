@@ -56,9 +56,9 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - a Gemini browser running on Electron.
 
 #### Mobile
+- [Ariane](https://oppenlab.net/pr/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Gemini Browser](https://github.com/pitr/gemini-ios) (Swift) - iOS native browser.
-- [Två](https://www.oppenlab.net/pr/tva/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows.
