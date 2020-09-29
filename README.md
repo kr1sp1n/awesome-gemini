@@ -41,6 +41,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - a minimal but usable interactive Gemini client in < 100 LOC of Lua.
 - [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - a minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs.
+- [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - a CLI utility (like curl) and a line-mode browser.
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 
 ### Graphical
@@ -81,12 +82,15 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol.
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C.
 - [geminid](https://www.upyum.com/cgit.cgi/geminid) (Scheme) - a Gemini Server in CHICKEN Scheme.
+- [gemini-php](https://opensource.glasgow.social/gemini-php) (PHP) - a simple Gemini server in PHP.
+- [gmnisrv](https://sr.ht/~sircmpwn/gmnisrv/) (C) - a high-performance Gemini server for POSIX systems.
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - a server with features like vhosts, CGI, SCGI, reverse-proxying and more.
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
 - [GLV-1.12556](https://github.com/spc476/GLV-1.12556) (Lua) - the first Gemini protocol server with a lot of features
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - a built-in static file server with support for gemini directories and CGI scripts.
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - a server written in Prolog.
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - a full-featured Gemini server implemented in Go.
+- [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - a Gemini server implemented in PHP.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - a simple server that will only serve one `index.gemini` file.
 - [Shavit](https://git.sr.ht/~yotam/shavit) (Go) - a configurable Gemini server for UNIX operating systems.
 - [Space-Age](https://gitlab.com/lambdatronic/space-age) (Clojure) - a Gemini server written in Clojure.
