@@ -64,6 +64,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows.
 
 ## Programming
+- [gemclient](https://github.com/Koshroy/gemclient) (Nim) - a rich client library for the Gemini Protocol.
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib.
 - [gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - a library that provides an easy interface to create client and servers.
