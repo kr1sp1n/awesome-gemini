@@ -90,6 +90,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - a built-in static file server with support for gemini directories and CGI scripts.
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - a server written in Prolog.
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - a full-featured Gemini server implemented in Go.
+- [net-gemini](https://github.com/jackdoe/net-gemini) (Go) - a gemini server inspired by Molly Brown.
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - a Gemini server implemented in PHP.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - a simple server that will only serve one `index.gemini` file.
 - [Satellite](https://sr.ht/~gsthnz/satellite/) (Go) - a small Gemini server for serving static files.
