@@ -67,6 +67,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib.
 - [gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - a library that provides an easy interface to create client and servers.
+- [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
 
 ## Resources
