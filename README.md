@@ -31,7 +31,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 
 ### Terminal
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - a "fancy" terminal client.
-- [Asuka](https://tildegit.org/julienxx/asuka) (Rust) - an NCurses-based Gemini client.
+- [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - a Gemini client derived from the popular VF-1 Gopher client.
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - a bash Gemini client.
 - [Bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - a combined Gopher and Gemini client with vim-inspired key mappings.
