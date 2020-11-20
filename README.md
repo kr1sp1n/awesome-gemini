@@ -70,6 +70,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - a library that provides an easy interface to create client and servers.
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
+- [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack
 
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
@@ -81,6 +82,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Server for Linux, Mac, Raspberry Pi. Supports SNI for multiple domains on the same server, has Docker image.
 - [blizanci](https://github.com/mk270/blizanci) (Erlang) - a server designed primarily for robustness and security.
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - a simple Gemini server written using Deno and Typescript.
+- [Diamant](https://git.umaneti.net/diamant/) (Ruby) - a simple Gemini server for static files.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - a scheme-specific filtering proxy for Gemini clients to access the web.
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - a server to facilitate easy Gemini-Gopher bi-hosting.
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol.
