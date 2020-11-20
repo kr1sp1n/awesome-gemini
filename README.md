@@ -8,7 +8,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 [Excerpt from gemini.circumlunar.space](https://gemini.circumlunar.space/docs/specification.html):
 
 > Gemini is a client-server protocol featuring request-response transactions, broadly similar to gopher or HTTP.
-  Connections are closed at the end of a single transaction and cannot be reused. When Gemini is served over TCP/IP, servers 
+  Connections are closed at the end of a single transaction and cannot be reused. When Gemini is served over TCP/IP, servers
   should listen on port 1965 (the first manned Gemini mission, Gemini 3, flew in March'65).
   This is an unprivileged port, so it's very easy to run a server as a "nobody" user, even if e.g. the server is written
   in Go and so can't drop privileges in the traditional fashion.
