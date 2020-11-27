@@ -24,6 +24,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Programming](#programming)
 - [Resources](#resources)
 - [Servers](#servers)
+- [Services](#services)
 - [Tools](#tools)
 - [Web proxies](#web-proxies)
 
@@ -105,6 +106,11 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Space-Age](https://gitlab.com/lambdatronic/space-age) (Clojure) - a Gemini server written in Clojure.
 - [Titan](https://github.com/jahzielv/titan) (Rust) - a simple TOML-configured Gemini server and an Express-like Gemini server framework.
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
+
+## Services
+- __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
+- __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
+
 
 ## Tools
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
