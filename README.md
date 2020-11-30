@@ -110,7 +110,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 
 ## Services
-- __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini.
+- __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://sr.ht/~alexwennerberg/flounder/)).
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
 
