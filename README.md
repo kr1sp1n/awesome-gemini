@@ -86,7 +86,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - a simple Gemini server written using Deno and Typescript.
 - [Diamant](https://git.umaneti.net/diamant/) (Ruby) - a simple Gemini server for static files.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - a scheme-specific filtering proxy for Gemini clients to access the web.
-- [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - a Gemini fileserver for the JVM
+- [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - a Gemini fileserver for the JVM.
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - a server to facilitate easy Gemini-Gopher bi-hosting.
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol.
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C.
@@ -110,17 +110,17 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 
 ## Services
+- __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-
 
 ## Tools
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 - [gmitohtml](https://gitlab.com/tslocum/gmitohtml) (Go) - a proxy that renders Gemini pages using HTML.
-- [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site
-- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages
+- [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
+- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
 
 ## Web proxies
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
