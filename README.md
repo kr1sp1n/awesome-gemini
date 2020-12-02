@@ -116,7 +116,10 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://tictactoe.lanterne.chilliet.eu__ - a Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-- [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend
+- __gemini://rawtext.club:1965/~sloum/geminews/__ - Daily news feeds proxied to gemini.
+- __gemini://rawtext.club:1965/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
+- __gemini://rawtext.club:1965/~sloum/cgi/weather__ - US weather reports by zip code.
+- [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 
 
 ## Tools
