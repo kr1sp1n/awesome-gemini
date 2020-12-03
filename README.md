@@ -84,6 +84,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Server for Linux, Mac, Raspberry Pi. Supports SNI for multiple domains on the same server, has Docker image.
 - [blizanci](https://github.com/mk270/blizanci) (Erlang) - a server designed primarily for robustness and security.
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - a simple Gemini server written using Deno and Typescript.
+- [Dʒɛmɪni](https://sr.ht/~rwv/dezhemini/) (Racket) - a server with features like SNI and CGI.
 - [Diamant](https://git.umaneti.net/diamant/) (Ruby) - a simple Gemini server for static files.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - a scheme-specific filtering proxy for Gemini clients to access the web.
 - [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - a Gemini fileserver for the JVM.
