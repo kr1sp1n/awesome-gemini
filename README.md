@@ -73,7 +73,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
-- [ignition](https://github.com/cbrews/ignition) (Python) - Gemini Client Transport/Request library for python3
+- [ignition](https://github.com/cbrews/ignition) (Python) - a Gemini client transport/request library for python3.
 
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
@@ -129,6 +129,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 ## Tools
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
+- [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - a Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 - [gmitohtml](https://gitlab.com/tslocum/gmitohtml) (Go) - a proxy that renders Gemini pages using HTML.
