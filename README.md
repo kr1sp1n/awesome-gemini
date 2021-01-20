@@ -95,6 +95,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 - [geminid](https://github.com/jovoro/geminid/) (C) - a Gemini Server in C.
 - [geminid](https://www.upyum.com/cgit.cgi/geminid) (Scheme) - a Gemini Server in CHICKEN Scheme.
 - [gemini-php](https://opensource.glasgow.social/gemini-php) (PHP) - a simple Gemini server in PHP.
+- [geminim](https://github.com/ardek66/geminim) (Nim) - an async lightweight Gemini server made in Nim.
 - [gmnisrv](https://sr.ht/~sircmpwn/gmnisrv/) (C) - a high-performance Gemini server for POSIX systems.
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - a server with features like vhosts, CGI, SCGI, reverse-proxying and more.
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
