@@ -59,7 +59,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 #### Mobile
 - [Ariane](https://oppenlab.net/pr/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
-- [Gemini Browser](https://github.com/pitr/gemini-ios) (Swift) - iOS native browser.
+- [Elaho](https://github.com/pitr/gemini-ios) (Swift) - a full featured Gemini protocol browser for iOS.
 - [Xenia](https://gitlab.com/tslocum/xenia) (Java) - a Gemini proxy for Android.
 
 #### Windows
