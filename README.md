@@ -78,6 +78,7 @@ Repo mirrors:
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
 - [ignition](https://github.com/cbrews/ignition) (Python) - a Gemini client transport/request library for python3.
+- [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - a Gemini library to write clients. Includes IRI support, gemtext parsing and a CLI tool.
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 
