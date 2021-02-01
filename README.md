@@ -84,7 +84,7 @@ Repo mirrors:
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
 - [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - a list of Gemini software.
-- [transjovian.org/gemini](https://portal.mozz.us/gemini/transjovian.org:1965/gemini/) - a wiki space dedicated to Gemini communities and software.
+- [transjovian.org/gemini](https://portal.mozz.us/gemini/transjovian.org/gemini/) - a wiki space dedicated to Gemini communities and software.
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - a simple Gemini server for static files.
@@ -121,16 +121,16 @@ Repo mirrors:
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 
 ## Services
-- __gemini://drewdevault.com:1965/cgi-bin/man.sh__ - look up a POSIX man page.
+- __gemini://drewdevault.com/cgi-bin/man.sh__ - look up a POSIX man page.
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://sr.ht/~alexwennerberg/flounder/)).
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info).
 - __gemini://glv.one__ - a free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://tictactoe.lanterne.chilliet.eu__ - a Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-- __gemini://rawtext.club:1965/~sloum/geminews/__ - Daily news feeds proxied to gemini.
-- __gemini://rawtext.club:1965/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
-- __gemini://rawtext.club:1965/~sloum/cgi/weather__ - US weather reports by zip code.
+- __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
+- __gemini://rawtext.club/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
+- __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 
 
