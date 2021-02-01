@@ -72,6 +72,7 @@ Repo mirrors:
 ## Programming
 - [gemclient](https://github.com/Koshroy/gemclient) (Nim) - a rich client library for the Gemini Protocol.
 - [gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib.
+- [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - a library that provides an easy interface to create client and servers.
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
