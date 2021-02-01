@@ -40,7 +40,7 @@ Repo mirrors:
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - a Gemini client derived from the popular VF-1 Gopher client.
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - a bash Gemini client.
 - [bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - a combined Gopher, Gemini, Finger, and File client with vim-inspired key mappings.
-- [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni
+- [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
 - [diohsc](https://mbays.sdf.org/diohsc/) (Haskell) - a simple line-based command-response terminal user interface with ANSI colour.
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - a combined Gopher and Gemini client for the popular text editor / operating system.
 - [gemini-demo-1](https://tildegit.org/solderpunk/gemini-demo-1) (Python) - a minimal but usable interactive Gemini client in < 100 LOC of Python 3.
@@ -121,9 +121,11 @@ Repo mirrors:
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 
 ## Services
+- __gemini://directory.randomroad.net/__ - a curated gemini directory ([repo](https://git.sr.ht/~dctrud/gemini-directory)).
 - __gemini://drewdevault.com:1965/cgi-bin/man.sh__ - look up a POSIX man page.
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://sr.ht/~alexwennerberg/flounder/)).
-- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info).
+- __gemini://geddit.glv.one__ - interactive link service (with comments).
+- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info)).
 - __gemini://glv.one__ - a free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://tictactoe.lanterne.chilliet.eu__ - a Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
@@ -135,6 +137,7 @@ Repo mirrors:
 
 
 ## Tools
+- [gemifedi](https://git.sr.ht/~boringcactus/gemifedi) (Rust) - a self-hostable fediverse (mostyl Mastodon & Pleroma) to gemini bridge
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - a Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
