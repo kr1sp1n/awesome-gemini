@@ -78,13 +78,14 @@ Repo mirrors:
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
 - [ignition](https://github.com/cbrews/ignition) (Python) - a Gemini client transport/request library for python3.
+- [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - a Gemini library to write clients. Includes IRI support, gemtext parsing and a CLI tool.
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
 - [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - a list of Gemini software.
-- [transjovian.org/gemini](https://portal.mozz.us/gemini/transjovian.org:1965/gemini/) - a wiki space dedicated to Gemini communities and software.
+- [transjovian.org/gemini](https://portal.mozz.us/gemini/transjovian.org/gemini/) - a wiki space dedicated to Gemini communities and software.
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - a simple Gemini server for static files.
@@ -121,16 +122,16 @@ Repo mirrors:
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 
 ## Services
-- __gemini://drewdevault.com:1965/cgi-bin/man.sh__ - look up a POSIX man page.
+- __gemini://drewdevault.com/cgi-bin/man.sh__ - look up a POSIX man page.
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://sr.ht/~alexwennerberg/flounder/)).
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info).
 - __gemini://glv.one__ - a free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://tictactoe.lanterne.chilliet.eu__ - a Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-- __gemini://rawtext.club:1965/~sloum/geminews/__ - Daily news feeds proxied to gemini.
-- __gemini://rawtext.club:1965/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
-- __gemini://rawtext.club:1965/~sloum/cgi/weather__ - US weather reports by zip code.
+- __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
+- __gemini://rawtext.club/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
+- __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 
 
@@ -141,12 +142,14 @@ Repo mirrors:
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 - [gmitohtml](https://gitlab.com/tslocum/gmitohtml) (Go) - a proxy that renders Gemini pages using HTML.
+- [gmi-web](https://codeberg.org/talon/gmi-web) (JS) - generate _semantic_ HTML styled for readability and mobile-friendliness.
 - [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
 - [kiln](https://git.sr.ht/~adnano/kiln) (Go) - a simple static site generator for Gemini sites.
 - [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
 - [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
-- [Lupa](https://framagit.org/bortzmeyer/lupa) - A crawler to explore the geminispace and make statistics (you can see them at __gemini://gemini.bortzmeyer.org/software/lupa/stats.gmi )
+- [Lupa](https://framagit.org/bortzmeyer/lupa) - A crawler to explore the geminispace and make statistics ( you can see them at __gemini://gemini.bortzmeyer.org/software/lupa/stats.gmi ).
+- [Manisha](https://framagit.org/bortzmeyer/manisha) - A Nagios (and compatible, such as Icinga) plugin to monitor Gemini servers.
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
