@@ -149,6 +149,8 @@ Repo mirrors:
 - [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
 - [Manisha](https://framagit.org/bortzmeyer/manisha) - A Nagios (and compatible, such as Icinga) plugin to monitor Gemini servers
+- [Lupa](https://framagit.org/bortzmeyer/lupa) - A crawler to explore the geminispace and make statistics (you can see them at __gemini://gemini.bortzmeyer.org/software/lupa/stats.gmi )
+
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
