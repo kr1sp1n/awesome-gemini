@@ -62,10 +62,11 @@ Repo mirrors:
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - a Gemini browser running on Electron.
 
 #### Mobile
-- [Ariane](https://oppenlab.net/pr/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
+- [Ariane](https://oppen.digital/software/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Elaho](https://github.com/pitr/gemini-ios) (Swift) - a full featured Gemini protocol browser for iOS.
 - [Xenia](https://gitlab.com/tslocum/xenia) (Java) - a Gemini proxy for Android.
+- [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows.
