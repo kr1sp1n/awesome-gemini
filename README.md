@@ -62,10 +62,11 @@ Repo mirrors:
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - a Gemini browser running on Electron.
 
 #### Mobile
-- [Ariane](https://oppenlab.net/pr/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
+- [Ariane](https://oppen.digital/software/ariane/) (Kotlin/Java) - a Gemini protocol client for Android based OS.
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Elaho](https://github.com/pitr/gemini-ios) (Swift) - a full featured Gemini protocol browser for iOS.
 - [Xenia](https://gitlab.com/tslocum/xenia) (Java) - a Gemini proxy for Android.
+- [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - a user friendly graphical Gemini client for MS Windows.
@@ -74,6 +75,7 @@ Repo mirrors:
 - [gemclient](https://github.com/Koshroy/gemclient) (Nim) - a rich client library for the Gemini Protocol.
 - [derhuerst/gemini](https://github.com/derhuerst/gemini) (Node.js) - a server & client lib.
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
+- [cuipod](https://github.com/aegis-dev/cuipod) (C#) - Simple yet flexible framework for Gemini protocol server.
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - a library that provides an easy interface to create client and servers.
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - a more recent fork of the library above.
 - [gig](https://github.com/pitr/gig) (Go) - a Gemini framework.
@@ -136,20 +138,23 @@ Repo mirrors:
 
 
 ## Tools
+- [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
 - [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - a lua filter for pandoc to output Gemini text.
 - [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - a JavaScript library for parsing Gemini pages, and for rendering them to HTML.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - a Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 - [gmitohtml](https://gitlab.com/tslocum/gmitohtml) (Go) - a proxy that renders Gemini pages using HTML.
+- [gmi2html](https://github.com/shtanton/gmi2html) (Zig) - A tiny gemtext to HTML converter with a focus on performance.
 - [gmi-web](https://codeberg.org/talon/gmi-web) (JS) - generate _semantic_ HTML styled for readability and mobile-friendliness.
 - [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
 - [kiln](https://git.sr.ht/~adnano/kiln) (Go) - a simple static site generator for Gemini sites.
-- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
-- [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
-- [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
+- [Lupa](https://framagit.org/bortzmeyer/lupa) - A crawler to explore the geminispace and make statistics (you can see them at __gemini://gemini.bortzmeyer.org/software/lupa/stats.gmi )
 - [Manisha](https://framagit.org/bortzmeyer/manisha) - A Nagios (and compatible, such as Icinga) plugin to monitor Gemini servers
-- [gmi2html](https://github.com/shtanton/gmi2html) (Zig) - A tiny gemtext to HTML converter with a focus on performance.
+- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
+- [md2gemini](https://github.com/makeworld-the-better-one/md2gemini) (Python) - converter from Markdown to the Gemini text format.
+- [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
+
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
