@@ -122,6 +122,7 @@ Repo mirrors:
 - [Space-Age](https://gitlab.com/lambdatronic/space-age) (Clojure) - a Gemini server written in Clojure.
 - [Titan](https://github.com/jahzielv/titan) (Rust) - a simple TOML-configured Gemini server and an Express-like Gemini server framework.
 - [twins](https://gitlab.com/tslocum/twins) (Go) - a YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
+- [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd
 
 ## Services
 - __gemini://drewdevault.com/cgi-bin/man.sh__ - look up a POSIX man page.
