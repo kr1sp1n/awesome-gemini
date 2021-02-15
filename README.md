@@ -49,6 +49,7 @@ Repo mirrors:
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - a cURL-like CLI for loading content from Gemini URLs.
 - [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - a CLI utility (like curl) and a line-mode browser.
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
+- [ncgopher](https://github.com/jansc/ncgopher) (Rust) - a gopher and gemini client for the modern internet.
 
 ### Graphical
 #### Cross-platform
