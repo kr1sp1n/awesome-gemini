@@ -129,6 +129,7 @@ Repo mirrors:
 - __gemini://drewdevault.com/cgi-bin/man.sh__ - look up a POSIX man page.
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info)).
+- __gemini://geddit.glv.one__ - interactive link service (with comments).
 - __gemini://glv.one__ - a free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://tictactoe.lanterne.chilliet.eu__ - a Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
