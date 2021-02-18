@@ -163,6 +163,7 @@ Repo mirrors:
 - [gemini.el](https://git.carcosa.net/jmcbray/gemini.el) - text/gemini syntax highlighting for emacs.
 - [gemini.kak](https://github.com/kakoune-editor/kakoune-extra-filetypes/blob/master/rc/gemini.kak) - text/gemini syntax highlighting for kakoune.
 - [gemini.nanorc](https://github.com/yzzyx-network/nanorc/blob/master/gemini.nanorc) - text/gemini syntax highlighting for nano.
+- [gemini.sublime-syntax](https://github.com/adiabatic/gemini.sublime-syntax) - text/gemini syntax highlighting for bat (and maybe Sublime Text).
 
 ## Web proxies
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
