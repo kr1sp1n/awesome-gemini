@@ -99,7 +99,7 @@ Repo mirrors:
 - [Diamant](https://git.umaneti.net/diamant/) (Ruby) - a simple Gemini server for static files.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - a scheme-specific filtering proxy for Gemini clients to access the web.
 - [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - a Gemini fileserver for the JVM.
-- [Ergol](gemini://adele.work/code/ergol/ergol.gmi) (PHP) - a light Gemini server able to host several capsules with different cerificates.
+- [Ergol](http://adele.work/code/ergol/ergol.gmi) (PHP) - a light Gemini server able to host several capsules with different cerificates.
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - a server to facilitate easy Gemini-Gopher bi-hosting.
 - [Gemeaux](https://github.com/brunobord/gemeaux) (Python) - a Server using only the Python standard library.
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - a lightweight server for the Gemini protocol.
