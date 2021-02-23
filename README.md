@@ -118,6 +118,7 @@ Repo mirrors:
 - [net-gemini](https://github.com/jackdoe/net-gemini) (Go) - a gemini server inspired by Molly Brown.
 - [northstar](https://github.com/panicbit/northstar) (Rust) - a gemini server implementation.
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - a Gemini server implemented in PHP.
+- [Phoebe](https://alexschroeder.ch/cgit/phoebe/about/) (Perl) - a Gemini/web wiki.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - a simple server that will only serve one `index.gemini` file.
 - [Satellite](https://sr.ht/~gsthnz/satellite/) (Go) - a small Gemini server for serving static files.
 - [Shavit](https://git.sr.ht/~yotam/shavit) (Go) - a configurable Gemini server for UNIX operating systems.
