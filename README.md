@@ -88,7 +88,7 @@ Repo mirrors:
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
 - [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - a list of Gemini software.
-- [transjovian.org/gemini](https://portal.mozz.us/gemini/transjovian.org/gemini/) - a wiki space dedicated to Gemini communities and software.
+- [transjovian.org/gemini](https://transjovian.org/gemini/) - a wiki space dedicated to Gemini communities and software.
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - a simple Gemini server for static files.
