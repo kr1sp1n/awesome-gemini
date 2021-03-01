@@ -17,6 +17,11 @@ Repo mirrors:
   This is an unprivileged port, so it's very easy to run a server as a "nobody" user, even if e.g. the server is written
   in Go and so can't drop privileges in the traditional fashion.
 
+## Gemini Specification 
+
+- [protocol](https://gitlab.com/gemini-specification/protocol)
+- [gemini-text](https://gitlab.com/gemini-specification/gemini-text)
+
 ## Contents
 
 - [Clients](#clients)
