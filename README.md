@@ -127,6 +127,7 @@ Repo mirrors:
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - a Gemini server implemented in PHP.
 - [Phoebe](https://alexschroeder.ch/cgit/phoebe/about/) (Perl) - a Gemini/web wiki.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - a simple server that will only serve one `index.gemini` file.
+- [rc-gemd](https://sr.ht/~moody/rc-gemd) (Shell) - a simple Gemini server written in rc (for plan9 operating systems).
 - [Satellite](https://sr.ht/~gsthnz/satellite/) (Go) - a small Gemini server for serving static files.
 - [Shavit](https://git.sr.ht/~yotam/shavit) (Go) - a configurable Gemini server for UNIX operating systems.
 - [Space-Age](https://gitlab.com/lambdatronic/space-age) (Clojure) - a Gemini server written in Clojure.
