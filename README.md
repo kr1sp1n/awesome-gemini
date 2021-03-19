@@ -167,6 +167,7 @@ Repo mirrors:
 - [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
 - [md2gemini](https://github.com/makeworld-the-better-one/md2gemini) (Python) - converter from Markdown to the Gemini text format.
 - [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
+- [gemini_http](https://github.com/cyevgeniy/gemini_http) (Go) - Simple tool for viewing gemini files that are placed on a http server
 
 
 ### Syntax Highlighting
