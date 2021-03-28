@@ -36,6 +36,7 @@ Repo mirrors:
 - [Services](#services)
 - [Tools](#tools)
 - [Web proxies](#web-proxies)
+- [Bots/Automation](#bots)
 
 ## Clients
 
@@ -181,6 +182,9 @@ Repo mirrors:
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
 - [Soweli Lukin](https://alexschroeder.ch/soweli-lukin)
 - [Vulpes proxy](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/)
+
+## Bots
+- [Fortune Teller Bot](https://github.com/t-900-a/gemini-fortune-bot) - Generates a fortune gmi file, gemlog/index.gmi, and atom.xml every time the bot is executed
 
 ---
 [1]: https://gemini.circumlunar.space/
