@@ -57,6 +57,7 @@ Repo mirrors:
 - [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - CLI utility (like curl) and line-mode browser.
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
+- [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
 
 ### Graphical
 #### Cross-platform
@@ -117,6 +118,7 @@ Repo mirrors:
 - [gemini-php](https://opensource.glasgow.social/gemini-php) (PHP) - simple Gemini server in PHP.
 - [JAGS-php](https://github.com/codeandcreate/JAGS-PHP) (PHP) - fork of gemini-php with support of dynamic pages.
 - [geminim](https://github.com/ardek66/geminim) (Nim) - an async lightweight Gemini server made in Nim.
+- [gmid](https://github.com/omar-polo/gmid) (C) - simple and secure Gemini server.
 - [gmnisrv](https://sr.ht/~sircmpwn/gmnisrv/) (C) - high-performance Gemini server for POSIX systems.
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - server with features like vhosts, CGI, SCGI, reverse-proxying and more.
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
@@ -147,6 +149,7 @@ Repo mirrors:
 - __gemini://geddit.glv.one__ - interactive link service (with comments).
 - __gemini://glv.one__ - free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
+- __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
 - __gemini://tictactoe.lanterne.chilliet.eu__ - Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
 - __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
