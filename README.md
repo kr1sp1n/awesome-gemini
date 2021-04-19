@@ -127,7 +127,7 @@ Repo mirrors:
 - [GLV-1.12556](https://github.com/spc476/GLV-1.12556) (Lua) - the first Gemini protocol server with a lot of features.
 - [Hydepark](https://github.com/spektom/hydepark) (Rust) - discussion forum application for Gemini.
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - built-in static file server with support for gemini directories and CGI scripts.
-- [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client)(Java) - dual gemini/http server on top of jetty with spring-boot integration
+- [warmuuh/jemini](https://github.com/warmuuh/jemini)(Java) - dual gemini/http server on top of jetty with spring-boot integration
 - [Lupa Pona](https://github.com/kensanata/lupa-pona) (Perl) - simple single directory Gemini server.
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - server written in Prolog.
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - full-featured Gemini server implemented in Go.
