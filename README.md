@@ -105,6 +105,7 @@ Repo mirrors:
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - simple Gemini server for static files.
+- [Apogee](https://github.com/bunburya/apogee) (Kotlin) - Gemini server written in Kotlin for the JVM.
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Server for Linux, Mac, Raspberry Pi. Supports SNI for multiple domains on the same server, has Docker image.
 - [blizanci](https://github.com/mk270/blizanci) (Erlang) - server designed primarily for robustness and security.
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - simple Gemini server written using Deno and Typescript.
