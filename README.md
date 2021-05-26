@@ -31,6 +31,7 @@ Repo mirrors:
     - [Mobile](#mobile)
     - [Windows](#windows)
 - [Programming](#programming)
+- [Related Specifications](#related-specifications)
 - [Resources](#resources)
 - [Servers](#servers)
 - [Services](#services)
@@ -97,7 +98,10 @@ Repo mirrors:
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 - [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client)(Java) - reactive gemini-client, part of jemini-project
-- 
+
+## Related Specifications
+- [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
+
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
 - [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - list of Gemini software.
