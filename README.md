@@ -163,6 +163,7 @@ Repo mirrors:
 - __gemini://rawtext.club/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
 - __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
+- __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 
 
 ## Tools
