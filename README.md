@@ -58,6 +58,7 @@ Repo mirrors:
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - cURL-like CLI for loading content from Gemini URLs.
 - [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - CLI utility (like curl) and line-mode browser.
 - [Gremlin](https://github.com/actuday6418/gremlin) (Rust) - TUI for browsing Gemini space
+- [leo](https://github.com/shantaram3013/leo) (Python) - lightweight, prompt-driven Gemini client. 
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
 - [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
