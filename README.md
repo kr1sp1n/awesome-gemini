@@ -62,6 +62,7 @@ Repo mirrors:
 - [leo](https://github.com/shantaram3013/leo) (Python) - lightweight, prompt-driven Gemini client. 
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
+- [Telescope](//telescope.omarpolo.com) (C) - w3m-inspired, multi-protocol client that supports Gemini, Gopher and Finger
 - [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
 
 ### Graphical
