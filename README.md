@@ -44,6 +44,7 @@ Repo mirrors:
 ### Terminal
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client.
 - [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
+- [astronaut](https://sr.ht/~adnano/astronaut/) (Go) - A Gemini browser for the terminal.
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - Gemini client derived from the popular VF-1 Gopher client.
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - bash Gemini client.
