@@ -203,6 +203,7 @@ Repo mirrors:
 - [gmi2html](gemini://gemini.thegonz.net/gmi2html.sed) (Sed) - sed script to convert text/gemini to html.
 - [gmi-web](https://codeberg.org/talon/gmi-web) (JS) - generate _semantic_ HTML styled for readability and mobile-friendliness.
 - [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
+- [gmnigit](https://git.sr.ht/~kornellapacz/gmnigit) (Go) - static git gemini viewer.
 - [gssg](https://git.sr.ht/~gsthnz/gssg) (Go) - simple gemini static site generator. Generates pages, index and atom feeds.
 - [Html2GeminiPy](https://github.com/Aarontheissueguy/Html2GeminiPy) (Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.
 - [html2gmi](https://github.com/LukeEmmet/html2gmi) (Go) - command line utility to convert HTML to gemtext
