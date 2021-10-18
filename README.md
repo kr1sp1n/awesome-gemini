@@ -129,7 +129,7 @@ Repo mirrors:
 - [Doppio](https://github.com/bhavanki/doppio) (Java) - single-JAR Gemini server with CGI, authentication, and Atom feed support.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - scheme-specific filtering proxy for Gemini clients to access the web.
 - [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - Gemini fileserver for the JVM.
-- [Enceladus](https://github.com/hellcatto/Enceladus) (F#) - A simple Gemini protocol server implementation in .NET Core and F#.
+- [Enceladus](https://github.com/modotte/Enceladus) (F#) - A simple Gemini protocol server implementation in .NET Core and F#.
 - [Ergol](http://adele.work/code/ergol/ergol.gmi) (PHP) - light Gemini server able to host several capsules with different cerificates.
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - server to facilitate easy Gemini-Gopher bi-hosting.
 - [Gemeaux](https://github.com/brunobord/gemeaux) (Python) - server using only the Python standard library.
