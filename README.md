@@ -19,8 +19,9 @@ Repo mirrors:
 
 ## Gemini Specification 
 
-- [protocol](https://gitlab.com/gemini-specification/protocol)
-- [gemini-text](https://gitlab.com/gemini-specification/gemini-text)
+- [Official specification](https://gemini.circumlunar.space/docs/specification.gmi)
+- [protocol spec discussion and development](https://gitlab.com/gemini-specification/protocol)
+- [gemini-text spec discussion and development](https://gitlab.com/gemini-specification/gemini-text)
 
 ## Contents
 
