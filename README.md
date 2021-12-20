@@ -110,6 +110,7 @@ Repo mirrors:
 - [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
 - [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client)(Java) - reactive gemini-client, part of jemini-project
 - [geminic](https://github.com/WarpEngineer/geminic) (Erlang) - An Erlang library for building Gemini protocol clients.
+- [dremini](https://github.com/marty1885/dremini) (C++) - Highly concurrent C++ Gemini server and client library
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
@@ -184,6 +185,7 @@ Repo mirrors:
 - __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
+- __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 
 
 ## Tools
