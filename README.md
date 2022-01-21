@@ -229,6 +229,7 @@ Repo mirrors:
 - [gemini.nanorc](https://github.com/yzzyx-network/nanorc/blob/master/gemini.nanorc) - text/gemini syntax highlighting for nano.
 - [gemini.sublime-syntax](https://github.com/adiabatic/gemini.sublime-syntax) - text/gemini syntax highlighting for bat (and maybe Sublime Text).
 - [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) - text/gemini syntax highlighting for micro.
+- [language_gmi](https://github.com/lite-xl/lite-xl-plugins/blob/master/plugins/language_gmi.lua) - gemtext syntax highlighting for lite-xl
 
 ## Web proxies
 - [Mozz.us portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
