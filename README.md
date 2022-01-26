@@ -169,6 +169,7 @@ Repo mirrors:
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
 
 ## Services
+- __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
 - __gemini://drewdevault.com/cgi-bin/man.sh__ - look up a POSIX man page.
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info)).
