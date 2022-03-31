@@ -171,6 +171,7 @@ Repo mirrors:
 - [Titan](https://github.com/jahzielv/titan) (Rust) - simple TOML-configured Gemini server and an Express-like Gemini server framework.
 - [twins](https://code.rocketnine.space/tslocum/twins) (Go) - YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
+- [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
