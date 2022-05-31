@@ -37,6 +37,7 @@ Repo mirrors:
 - [Servers](#servers)
 - [Services](#services)
 - [Tools](#tools)
+  - [Gemtext converters](#gemtext-converters)
 - [Web proxies](#web-proxies)
 - [Bots](#bots)
 
@@ -193,42 +194,45 @@ Repo mirrors:
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 
-
 ## Tools
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
 - [certified](https://code.lag.net/robey/certified) (Python) - Generate TOFU TLS certificates for gemini servers.
 - [cl-yag](git://bitreich.org/cl-yag) (Common-Lisp) - Static site generator producing gemini, gopher and html.
 - [comitium](https://git.nytpu.com/comitium) (C) - A feed aggregator for gemini supporting many formats and protocols.
-- [gemgen](https://sr.ht/~kota/gemgen/) (Go) - A Markdown to Gemtext generator.
-- [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - lua filter for pandoc to output Gemini text.
-- [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - JavaScript library for parsing Gemini pages, and for rendering them to HTML.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gemlog.sh](https://git.nytpu.com/gemlog.sh/about/) (Bash) - Utility for writing and managing gemini logs (gemlogs) and atom feeds (simple gemini static site generator/framework).
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gemini_http](https://github.com/cyevgeniy/gemini_http) (Go) - simple tool for viewing gemini files that are placed on a http server.
 - [gemmit](https://github.com/t-900-a/gemmit) (Go) - social news aggregation and web content rating website for the gemini protocol.
 - [GemPress](https://git.sr.ht/~aprates/gempress) (C) - Yet another Gemini publishing framework with HTML and Atom support, written in Bash and Sugar-C.
-- [gemtext2latex](https://github.com/mk270/gemtext2latex) - tool for converting Gemtext to reasonable LaTeX and thence PDF
 - [gemtexter](https://codeberg.org/snonux/gemtexter) (Bash) - Site generator and blog engine for Gemini. Generates Atom and Gemfeeds , and also does Gemtext to HTML and Markdown conversion.
 - [gloggery](https://github.com/kconner/gloggery) (Go) - basic static site generator for blogs in Gemini.
 - [gmitohtml](https://gitlab.com/tslocum/gmitohtml) (Go) - proxy that renders Gemini pages using HTML.
-- [gmi2html](https://github.com/shtanton/gmi2html) (Zig) - tiny gemtext to HTML converter with a focus on performance.
-- [gmi2html](gemini://gemini.thegonz.net/gmi2html.sed) (Sed) - sed script to convert text/gemini to html.
-- [gmi-web](https://codeberg.org/talon/gmi-web) (JS) - generate _semantic_ HTML styled for readability and mobile-friendliness.
-- [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
 - [gmnigit](https://git.sr.ht/~kornellapacz/gmnigit) (Go) - static git gemini viewer.
 - [gssg](https://git.sr.ht/~gsthnz/gssg) (Go) - simple gemini static site generator. Generates pages, index and atom feeds.
-- [Html2GeminiPy](https://github.com/Aarontheissueguy/Html2GeminiPy) (Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.
-- [html2gmi](https://github.com/LukeEmmet/html2gmi) (Go) - command line utility to convert HTML to gemtext
 - [kiln](https://git.sr.ht/~adnano/kiln) (Go) - simple static site generator for Gemini sites.
 - [Lupa](https://framagit.org/bortzmeyer/lupa) - crawler to explore the geminispace and make statistics (you can see them at __gemini://gemini.bortzmeyer.org/software/lupa/stats.gmi ).
 - [Manisha](https://framagit.org/bortzmeyer/manisha) - Nagios (and compatible, such as Icinga) plugin to monitor Gemini servers.
-- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
-- [md2gemini](https://github.com/makeworld-the-better-one/md2gemini) (Python) - converter from Markdown to the Gemini text format.
 - [spacewalk](https://tildegit.org/sloum/spacewalk) (Go) - Page-hash based feed aggregator for gemini.
 - [MastoGem](https://git.rdelaage.ovh/rdelaage/mastoGem) (Go) - Mastodon proxy for Gemini.
 - [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
 - [Gopher-and-Gemini-Walker](https://github.com/mkamarin/Gopher-and-Gemini-Walker) (Python) - Terminal client (without network connectivity) to navigate a folder structure containing a Gemini capsule or Gopher hole.
+
+### Gemtext converters
+- [gemgen](https://sr.ht/~kota/gemgen/) (Go) - A Markdown to Gemtext generator.
+- [gemini-pandoc-lua-filter](https://github.com/kr1sp1n/gemini-pandoc-lua-filter) (Lua) - lua filter for pandoc to output Gemini text.
+- [gemini-to-html](https://github.com/RangerMauve/gemini-to-html) (Node.js) - JavaScript library for parsing Gemini pages, and for rendering them to HTML.
+- [gemtext2latex](https://github.com/mk270/gemtext2latex) - tool for converting Gemtext to reasonable LaTeX and thence PDF
+- [gemtexter](https://codeberg.org/snonux/gemtexter) (Bash) - Site generator and blog engine for Gemini. Generates Atom and Gemfeeds , and also does Gemtext to HTML and Markdown conversion.
+- [gmi2html](https://github.com/shtanton/gmi2html) (Zig) - tiny gemtext to HTML converter with a focus on performance.
+- [gmi2html](gemini://gemini.thegonz.net/gmi2html.sed) (Sed) - sed script to convert text/gemini to html.
+- [gmi-web](https://codeberg.org/talon/gmi-web) (JS) - generate _semantic_ HTML styled for readability and mobile-friendliness.
+- [gmnhg](https://git.tdem.in/tdemin/gmnhg) (Go) - renders a Hugo site to a Gemini site.
+- [Html2GeminiPy](https://github.com/Aarontheissueguy/Html2GeminiPy) (Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.
+- [html2gmi](https://github.com/LukeEmmet/html2gmi) (Go) - command line utility to convert HTML to gemtext
+- [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
+- [md2gemini](https://github.com/makeworld-the-better-one/md2gemini) (Python) - converter from Markdown to the Gemini text format.
+- [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
