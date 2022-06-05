@@ -54,6 +54,7 @@ Repo mirrors:
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
 - [gem.awk](git://git.vgx.fr/gem.awk) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
 - [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+- [Gemcurses](https://github.com/crusom/Gemcurses) (C) - A Gemini client, written in C using ncurses
 - [gemini-demo-1](https://tildegit.org/solderpunk/gemini-demo-1) (Python) - minimal but usable interactive Gemini client in < 100 LOC of Python 3.
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - minimal but usable interactive Gemini client in < 100 LOC of Lua.
 - [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
