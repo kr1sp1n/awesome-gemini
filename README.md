@@ -47,6 +47,7 @@ Repo mirrors:
 - [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - Gemini client derived from the popular VF-1 Gopher client.
+- [AV-98-fork](https://notabug.org/tinyrabbit/AV-98-fork.git) - A fork of AV-98
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - bash Gemini client.
 - [bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - combined Gopher, Gemini, Finger, and File client with vim-inspired key mappings.
 - [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
