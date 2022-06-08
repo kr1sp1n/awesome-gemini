@@ -48,7 +48,7 @@ Repo mirrors:
 - [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - Gemini client derived from the popular VF-1 Gopher client.
-- [AV-98-fork](https://notabug.org/tinyrabbit/AV-98-fork.git) - A fork of AV-98
+- [AV-98-fork](https://notabug.org/tinyrabbit/AV-98-fork.git) - A fork of AV-98.
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - bash Gemini client.
 - [bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - combined Gopher, Gemini, Finger, and File client with vim-inspired key mappings.
 - [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
@@ -56,6 +56,7 @@ Repo mirrors:
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
 - [gem.awk](git://git.vgx.fr/gem.awk) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
 - [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+- [Gemcurses](https://github.com/crusom/Gemcurses) (C) - A Gemini client, written in C using ncurses.
 - [gemini-demo-1](https://tildegit.org/solderpunk/gemini-demo-1) (Python) - minimal but usable interactive Gemini client in < 100 LOC of Python 3.
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - minimal but usable interactive Gemini client in < 100 LOC of Lua.
 - [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
@@ -86,7 +87,7 @@ Repo mirrors:
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 
 #### Mobile
-- [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane
+- [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Elaho](https://github.com/pitr/gemini-ios) (Swift) - full featured Gemini protocol browser for iOS.
 - [Gem](https://open-store.io/app/gem.aaron) (Python) - Gemini client for Ubuntu Touch.
@@ -185,7 +186,6 @@ Repo mirrors:
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info)).
 - __gemini://geddit.glv.one__ - interactive link service (with comments).
 - __gemini://glv.one__ - free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
-- __gemini://gus.guru/__ - Gemini Universal Search ([repo](https://natpen.net/code/gus)).
 - __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
 - __gemini://tictactoe.lanterne.chilliet.eu__ - Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
