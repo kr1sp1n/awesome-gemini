@@ -31,6 +31,7 @@ Repo mirrors:
     - [Cross-platform](#cross-platform)
     - [Mobile](#mobile)
     - [Windows](#windows)
+    - [MacOS](#macos)
 - [Programming](#programming)
 - [Related Specifications](#related-specifications)
 - [Resources](#resources)
@@ -96,6 +97,10 @@ Repo mirrors:
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
+
+#### MacOS
+- [Jimmy](https://github.com/jfoucher/Jimmy) (SwiftUI) - a lightweight native Gemini client for MacOS
+
 
 ## Programming
 - [gemclient](https://github.com/Koshroy/gemclient) (Nim) - rich client library for the Gemini Protocol.
