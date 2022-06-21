@@ -165,6 +165,7 @@ Repo mirrors:
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - built-in static file server with support for gemini directories and CGI scripts.
 - [warmuuh/jemini](https://github.com/warmuuh/jemini)(Java) - dual gemini/http server on top of jetty with spring-boot integration
 - [levior](https://gitlab.com/cipres/levior) (Python) - HTTP to Gemini gateway, allowing you to browse regular websites with any Gemini client
+- [Loxy](https://github.com/aschuhardt/Loxy) (C#) - Gemini to HTTP proxy, exposes any capsule to the web as stylable HTML (based on the Opal library).
 - [Lupa Pona](https://github.com/kensanata/lupa-pona) (Perl) - simple single directory Gemini server.
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - server written in Prolog.
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - full-featured Gemini server implemented in Go.
