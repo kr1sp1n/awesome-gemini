@@ -157,6 +157,7 @@ Repo mirrors:
 - [geminim](https://github.com/ardek66/geminim) (Nim) - an async lightweight Gemini server made in Nim.
 - [gmid](https://github.com/omar-polo/gmid) (C) - simple and secure Gemini server.
 - [gmifs](https://github.com/n0x1m/gmifs) (Go) - Gemini file server with auto indexing support, caching and auto TLS key pair creation.
+- [gmnd](https://code.smolnet.org/micke/gmnd) (Python) - packaged Gemini server with support for CGI and indexing
 - [gmnisrv](https://sr.ht/~sircmpwn/gmnisrv/) (C) - high-performance Gemini server for POSIX systems.
 - [Gemserv](https://portal.mozz.us/gemini/80h.dev/projects/gemserv/) (Rust) - server with features like vhosts, CGI, SCGI, reverse-proxying and more.
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
