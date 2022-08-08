@@ -186,6 +186,7 @@ Repo mirrors:
 - [twins](https://code.rocketnine.space/tslocum/twins) (Go) - YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
 - [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
+- [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
