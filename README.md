@@ -188,6 +188,7 @@ Repo mirrors:
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
 - [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
 - [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
+- [kepler](https://github.com/ambyshframber/kepler) - simple gemini server in rust
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
@@ -263,6 +264,7 @@ Repo mirrors:
 - [Soweli Lukin](https://alexschroeder.ch/soweli-lukin)
 - [Vulpes proxy](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/)
 - [koyu.space GemProxy](https://gemproxy.koyu.space)
+- [Wobbly](https://www.warmedal.se/~wobbly/)
 
 ## Bots
 - [Fortune Teller Bot](https://github.com/t-900-a/gemini-fortune-bot) - Generates a fortune gmi file, gemlog/index.gmi, and atom.xml every time the bot is executed
