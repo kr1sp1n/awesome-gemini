@@ -102,6 +102,8 @@ Repo mirrors:
 #### MacOS
 - [Jimmy](https://github.com/jfoucher/Jimmy) (SwiftUI) - a lightweight native Gemini client for MacOS
 
+#### Linux
+- [Geopard](https://ranfdev.com/projects/geopard/) (Rust/GTK4) - Geopard is a colorful and fast gemini client written in rust, using the gtk4 toolkit, available as a flatpak. 
 
 ## Programming
 - [gemclient](https://github.com/Koshroy/gemclient) (Nim) - rich client library for the Gemini Protocol.
