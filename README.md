@@ -73,7 +73,7 @@ Repo mirrors:
 - [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
 - [gplaces](https://github.com/dimkr/gplaces) (C) - command-driven, terminal based Gemini client in ~1K LOC of C.
 - [tgmi](https://framagit.org/apm04/tgmi) (python) - full-featured CLI terminal-based Gemini client
-- 
+
 ### Graphical
 #### Cross-platform
 - [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) - (Electron.js) - peer to peer web browser with support for loading Gemini pages.
@@ -88,6 +88,7 @@ Repo mirrors:
 - [Moonlander](https://sr.ht/~admicos/moonlander/) (Rust) - the fanciest Gemini client in the entire solar system.
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - graphical Gopher and Gemini client using QT.
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
+- [Geopard](https://github.com/ranfdev/Geopard) (Rust) - A colorful, adaptive gemini browser.
 
 #### Mobile
 - [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
