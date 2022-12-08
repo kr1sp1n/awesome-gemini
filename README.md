@@ -128,7 +128,7 @@ Repo mirrors:
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
 - [Gemini TinyLog Specification](https://codeberg.org/bacardi55/gemini-tinylog-rfc) - A Tinylog is a simple file with all "microblog" style entries to share small contents and interact with other geminauts' tinylog.
-- [Adding Emoji Favicons to Gemini](gemini://mozz.us/files/rfc_gemini_favicon.gmi) - Optional extension by Michael Lazar to the Gemini Protocol, with the goal to set a Unicode emoji as favicon for a site.
+- [Adding Emoji Favicons to Gemini](https://portal.mozz.us/gemini/mozz.us/files/rfc_gemini_favicon.gmi) - Optional extension by Michael Lazar to the Gemini Protocol, with the goal to set a Unicode emoji as favicon for a site.
 
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
