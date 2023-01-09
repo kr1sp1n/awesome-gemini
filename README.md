@@ -193,6 +193,7 @@ Repo mirrors:
 - [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
 - [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
 - [kepler](https://github.com/ambyshframber/kepler) - simple gemini server in rust
+- [Mehari](https://github.com/Psi-Prod/Mehari) - Featureful server in OCaml
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
