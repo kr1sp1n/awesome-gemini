@@ -52,7 +52,7 @@ Repo mirrors:
 - [AV-98-fork](https://notabug.org/tinyrabbit/AV-98-fork.git) - A fork of AV-98.
 - [bollux](https://sr.ht/~acdw/bollux/) (Bash) - bash Gemini client.
 - [bombadillo](https://rawtext.club/~sloum/bombadillo.html) (Go) - combined Gopher, Gemini, Finger, and File client with vim-inspired key mappings.
-- [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
+- [cgmnlm](https://codeberg.org/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
 - [diohsc](https://mbays.sdf.org/diohsc/) (Haskell) - simple line-based command-response terminal user interface with ANSI colour.
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
 - [gem.awk](git://git.vgx.fr/gem.awk) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
