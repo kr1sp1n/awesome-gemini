@@ -55,7 +55,7 @@ Repo mirrors:
 - [cgmnlm](https://src.clttr.info/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
 - [diohsc](https://mbays.sdf.org/diohsc/) (Haskell) - simple line-based command-response terminal user interface with ANSI colour.
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
-- [gem.awk](git://git.vgx.fr/gem.awk) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
+- [gem.awk](http://git.vgx.fr/gem.awk/file/gem.awk.html) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
 - [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
 - [Gemcurses](https://github.com/crusom/Gemcurses) (C) - A Gemini client, written in C using ncurses.
 - [gemini-demo-1](https://tildegit.org/solderpunk/gemini-demo-1) (Python) - minimal but usable interactive Gemini client in < 100 LOC of Python 3.
