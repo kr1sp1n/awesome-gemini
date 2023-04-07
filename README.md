@@ -123,7 +123,7 @@ Repo mirrors:
 - [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client)(Java) - reactive gemini-client, part of jemini-project
 - [geminic](https://github.com/WarpEngineer/geminic) (Erlang) - An Erlang library for building Gemini protocol clients.
 - [dremini](https://github.com/marty1885/dremini) (C++) - Highly concurrent C++ Gemini server and client library
-- [Opal](https://github.com/aschuhardt/Opal) (C#) - Gemini client library for .NET 6.  Built-in support for TOFU and client certificates.
+- [Opal](https://github.com/aschuhardt/Opal) (C#) - Gemini client library targeting .NET Standard 2.0.  Built-in support for TOFU and client certificates.
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
 
 ## Related Specifications
