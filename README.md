@@ -97,6 +97,7 @@ Repo mirrors:
 - [Gem](https://open-store.io/app/gem.aaron) (Python) - Gemini client for Ubuntu Touch.
 - [Xenia](https://gitlab.com/tslocum/xenia) (Java) - Gemini proxy for Android.
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
+- [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
