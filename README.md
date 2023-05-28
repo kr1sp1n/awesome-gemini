@@ -79,6 +79,7 @@ Repo mirrors:
 - [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) - (Electron.js) - peer to peer web browser with support for loading Gemini pages.
 - [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 - [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - graphical Gemini client using GTK.
+- [Eva](https://codeberg.org/jeang3nie/eva) (Rust) - a Gemini protocol browser in Gtk4
 - [Fafi](https://git.sr.ht/~soapdog/fafi-browser) (Racket) - graphical Gemini browser written in Racket.
 - [Fossil](https://github.com/koyuspace/fossil) (Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.
 - [Galacteek](https://gitlab.com/galacteek/galacteek) (Python) - Browser for the distributed web, with support for the Gemini protocol
