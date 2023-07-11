@@ -73,6 +73,7 @@ Repo mirrors:
 - [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
 - [gplaces](https://github.com/dimkr/gplaces) (C) - command-driven, terminal based Gemini client in ~1K LOC of C.
 - [tgmi](https://framagit.org/apm04/tgmi) (python) - full-featured CLI terminal-based Gemini client
+- [gmi100](https://github.com/ir33k/gmi100) (C) - CLI Gemini client written in 100 lines of ANSI C.
 
 ### Graphical
 #### Cross-platform
