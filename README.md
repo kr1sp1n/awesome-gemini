@@ -115,10 +115,12 @@ Repo mirrors:
 - [derhuerst/gemini](https://github.com/derhuerst/gemini) (Node.js) - server & client lib.
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [cuipod](https://github.com/aegis-dev/cuipod) (C#) - Simple yet flexible framework for Gemini protocol server.
+- [gemget](https://github.com/makew0rld/gemget) (Go) - Command line downloader for the Gemini protocol. 
 - [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - library that provides an easy interface to create client and servers.
-- [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - more recent fork of the library above.
+- [go-gemini](https://github.com/makew0rld/go-gemini) (Go) - more recent fork of the library above.
 - [gemini](https://github.com/kulak/gemini) (Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.
 - [gig](https://github.com/pitr/gig) (Go) - Gemini framework.
+- [gusmobile](https://git.sr.ht/~rwa/gusmobile) (Python) - gemini client for Pyhton (used by geminispace.info)
 - [html2gemini](https://github.com/LukeEmmet/html2gemini) (Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)
 - [ignition](https://github.com/cbrews/ignition) (Python) - Gemini client transport/request library for python3.
 - [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - Gemini library to write clients. Includes IRI support, gemtext parsing and CLI tool.
