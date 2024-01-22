@@ -46,7 +46,7 @@ Repo mirrors:
 ## Clients
 
 ### Terminal
-- [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client.
+- [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
 - [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
 - [astronaut](https://sr.ht/~adnano/astronaut/) (Go) - a gemini browser for the terminal
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
