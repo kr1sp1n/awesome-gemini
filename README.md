@@ -48,14 +48,16 @@ Repo mirrors:
 ### Terminal
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client.
 - [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
+- [astronaut](https://sr.ht/~adnano/astronaut/) (Go) - a gemini browser for the terminal
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - Gemini client derived from the popular VF-1 Gopher client.
 - [AV-98-fork](https://notabug.org/tinyrabbit/AV-98-fork.git) - A fork of AV-98.
 - [bollux](https://tildegit.org/acdw/bollux) (Bash) - bash Gemini client.
 - [bombadillo](https://bombadillo.colorfield.space/) (Go) - combined Gopher, Gemini, Finger, and File client with vim-inspired key mappings.
-- [cgmnlm](https://codeberg.org/rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
+- [cgmnlm](https://git.sr.ht/~rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
 - [diohsc](https://mbays.sdf.org/diohsc/) (Haskell) - simple line-based command-response terminal user interface with ANSI colour.
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
+- [gelim](https://sr.ht/~hedy/gelim/) (Go) - A minimalist line-mode smolnet client written in go.
 - [gem.awk](http://git.vgx.fr/gem.awk/file/gem.awk.html) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
 - [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
 - [Gemcurses](https://github.com/crusom/Gemcurses) (C) - A Gemini client, written in C using ncurses.
@@ -63,7 +65,11 @@ Repo mirrors:
 - [gemini-demo-2](https://tildegit.org/solderpunk/gemini-demo-2) (Lua) - minimal but usable interactive Gemini client in < 100 LOC of Lua.
 - [gemini-demo-3](https://tildegit.org/solderpunk/gemini-demo-3) (Go) - minimal but usable interactive Gemini client in not quite < 100 LOC of Go.
 - [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) (Node.js) - cURL-like CLI for loading content from Gemini URLs.
+- [gemivim](https://sr.ht/~k1nkreet/gemivim/) (Vim) - simple VIM plugin for browsing Gemini pages
+- [gmi](https://sr.ht/~chambln/gmi) (Shell) - Tiny Gemini browser written in POSIX-compliant shell. Highly hackable, portable shell script under 200 lines.
+- [gmi100](https://github.com/ir33k/gmi100) (C) - CLI Gemini client written in 100 lines of ANSI C.
 - [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - CLI utility (like curl) and line-mode browser.
+- [gplaces](https://github.com/dimkr/gplaces) (C) - command-driven, terminal based Gemini client in ~1K LOC of C.
 - [Gremlin](https://github.com/actuday6418/gremlin) (Rust) - TUI for browsing Gemini space
 - [leo](https://github.com/shantaram3013/leo) (Python) - lightweight, prompt-driven Gemini client. 
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
@@ -72,9 +78,8 @@ Repo mirrors:
 - [Romulus](https://github.com/LukeEmmet/Romulus) (C#) - interactive TUI client with menus and mouse support
 - [Telescope](//telescope.omarpolo.com) (C) - w3m-inspired, multi-protocol client that supports Gemini, Gopher and Finger
 - [tinmop](https://www.autistici.org/interzona/tinmop.html) (Common Lisp) - opinionated Mastodon and Gemini client
-- [gplaces](https://github.com/dimkr/gplaces) (C) - command-driven, terminal based Gemini client in ~1K LOC of C.
 - [tgmi](https://framagit.org/apm04/tgmi) (python) - full-featured CLI terminal-based Gemini client
-- [gmi100](https://github.com/ir33k/gmi100) (C) - CLI Gemini client written in 100 lines of ANSI C.
+- [vimini](https://git.sr.ht/~lufte/vimini) (Rust) - Desktop gemini browser inspired by qutebrowser and Vim.
 
 ### Graphical
 #### Cross-platform
@@ -85,6 +90,7 @@ Repo mirrors:
 - [Fafi](https://git.sr.ht/~soapdog/fafi-browser) (Racket) - graphical Gemini browser written in Racket.
 - [Fossil](https://github.com/koyuspace/fossil) (Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.
 - [Galacteek](https://gitlab.com/galacteek/galacteek) (Python) - Browser for the distributed web, with support for the Gemini protocol
+- [Gemalaya](https://gitlab.com/cipres/gemgemgem) (Python/QML) - Keyboard-driven Gemini browser with builtin web-to-gemini proxy
 - [Gerbil](https://gitlab.com/armen138/gerbil) (Python) - Gemini and Spartan browser written in python with GTK and LibHandy for desktop and mobile
 - [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - desktop GUI client with inline image viewing, multiple tabs, bookmarks and more.
 - [Molasses](https://github.com/jjsimpso/molasses) (Racket) - full-featured graphical Gopher and Gemini client with tabs.
@@ -110,17 +116,20 @@ Repo mirrors:
 
 
 ## Programming
-- [gemclient](https://github.com/Koshroy/gemclient) (Nim) - rich client library for the Gemini Protocol.
+- [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - Gemini library to write clients. Includes IRI support, gemtext parsing and CLI tool.
 - [derhuerst/gemini](https://github.com/derhuerst/gemini) (Node.js) - server & client lib.
 - [a-h/gemini](https://github.com/a-h/gemini) (Go) - Applications and libraries for building applications on Gemini.
 - [cuipod](https://github.com/aegis-dev/cuipod) (C#) - Simple yet flexible framework for Gemini protocol server.
-- [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - library that provides an easy interface to create client and servers.
-- [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) (Go) - more recent fork of the library above.
+- [gemclient](https://github.com/Koshroy/gemclient) (Nim) - rich client library for the Gemini Protocol.
+- [gemget](https://github.com/makew0rld/gemget) (Go) - Command line downloader for the Gemini protocol. 
 - [gemini](https://github.com/kulak/gemini) (Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.
 - [gig](https://github.com/pitr/gig) (Go) - Gemini framework.
+- [gmir](https://github.com/codesoap/gmir) (Go) - A reader for gmi files
+- [go-gemini](https://git.sr.ht/~yotam/go-gemini) (Go) - library that provides an easy interface to create client and servers.
+- [go-gemini](https://github.com/makew0rld/go-gemini) (Go) - more recent fork of the library above.
+- [gusmobile](https://git.sr.ht/~rwa/gusmobile) (Python) - gemini client for Pyhton (used by geminispace.info)
 - [html2gemini](https://github.com/LukeEmmet/html2gemini) (Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)
 - [ignition](https://github.com/cbrews/ignition) (Python) - Gemini client transport/request library for python3.
-- [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - Gemini library to write clients. Includes IRI support, gemtext parsing and CLI tool.
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 - [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
@@ -174,7 +183,8 @@ Repo mirrors:
 - [GLV-1.12556](https://github.com/spc476/GLV-1.12556) (Lua) - the first Gemini protocol server with a lot of features.
 - [Hydepark](https://github.com/spektom/hydepark) (Rust) - discussion forum application for Gemini.
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - built-in static file server with support for gemini directories and CGI scripts.
-- [warmuuh/jemini](https://github.com/warmuuh/jemini)(Java) - dual gemini/http server on top of jetty with spring-boot integration
+- [jemini](https://github.com/warmuuh/jemini)(Java) - dual gemini/http server on top of jetty with spring-boot integration
+- [laika](https://sr.ht/~gbmor/laika/) (Rust) - async Gemini protocol server.
 - [levior](https://gitlab.com/cipres/levior) (Python) - HTTP to Gemini gateway, allowing you to browse regular websites with any Gemini client
 - [Loxy](https://github.com/aschuhardt/Loxy) (C#) - Gemini to HTTP proxy, exposes any capsule to the web as stylable HTML (based on the Opal library).
 - [Lupa Pona](https://github.com/kensanata/lupa-pona) (Perl) - simple single directory Gemini server.
@@ -204,10 +214,12 @@ Repo mirrors:
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
-- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://src.clttr.info/rwa/geminispace.info)).
+- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://sr.ht/~rwa/geminispace.info)).
 - __gemini://geddit.glv.one__ - interactive link service (with comments).
 - __gemini://glv.one__ - free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
+- __gemini://gemplex.space/__ - experimental Search Engine for Gemini written in Go
+- __gemini://kennedy.gemi.dev/__ - public search provider for Gemini
 - __gemini://tictactoe.lanterne.chilliet.eu__ - Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
 - __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
