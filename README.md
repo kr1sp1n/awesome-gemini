@@ -245,7 +245,6 @@ Repo mirrors:
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gemlog.sh](https://git.sr.ht/~nytpu/gemlog.sh) (Bash) - Utility for writing and managing gemini logs (gemlogs) and atom feeds (simple gemini static site generator/framework).
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
-- [gemini_http](https://github.com/cyevgeniy/gemini_http) (Go) - simple tool for viewing gemini files that are placed on a http server.
 - [gemmit](https://github.com/t-900-a/gemmit) (Go) - social news aggregation and web content rating website for the gemini protocol.
 - [GemPress](https://git.sr.ht/~aprates/gempress) (C) - Yet another Gemini publishing framework with HTML and Atom support, written in Bash and Sugar-C.
 - [gemtexter](https://codeberg.org/snonux/gemtexter) (Bash) - Site generator and blog engine for Gemini. Generates Atom and Gemfeeds , and also does Gemtext to HTML and Markdown conversion.
