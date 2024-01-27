@@ -213,6 +213,7 @@ Repo mirrors:
 - [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
 - [kepler](https://github.com/ambyshframber/kepler) - simple gemini server in rust
 - [Mehari](https://github.com/Psi-Prod/Mehari) - Featureful server in OCaml
+- [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
