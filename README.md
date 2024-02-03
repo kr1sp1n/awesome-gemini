@@ -212,6 +212,7 @@ Repo mirrors:
 - [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
 - [kepler](https://github.com/ambyshframber/kepler) - simple gemini server in rust
 - [Mehari](https://github.com/Psi-Prod/Mehari) - Featureful server in OCaml
+- [DokuWiki Gemini Server](https://github.com/YGGverse/dokuwiki-gemini-server) (PHP) - Launch DokuWiki server using Gemini protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
@@ -230,6 +231,8 @@ Repo mirrors:
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
+- __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
+- __gemini://how-to-ygg.duckdns.org__ - How To Yggdrasil DokuWiki mirror ([repo](https://github.com/YGGverse/dokuwiki-gemini-server))
 
 ## Tools
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
@@ -273,6 +276,7 @@ Repo mirrors:
 - [md2gmn](https://git.tdem.in/tdemin/gmnhg) (Go) - renders Markdown text to Gemini pages.
 - [md2gemini](https://github.com/makeworld-the-better-one/md2gemini) (Python) - converter from Markdown to the Gemini text format.
 - [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
+- [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - DokuWiki converter and other tools
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
