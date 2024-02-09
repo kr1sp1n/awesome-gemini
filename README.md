@@ -6,6 +6,7 @@ Please contribute to this list to link to all the awesome gemini projects out th
 Repo mirrors:
 * https://codeberg.org/kr1sp1n/awesome-gemini
 * https://git.sr.ht/~kr1sp1n/awesome-gemini
+* https://gitlab.com/kr1sp1n/awesome-gemini
 * https://github.com/kr1sp1n/awesome-gemini
 
 ## What is Gemini

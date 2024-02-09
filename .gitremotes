@@ -7,3 +7,6 @@
 [remote "cb"]
   url = https://codeberg.org/kr1sp1n/awesome-gemini
   fetch = +refs/heads/*:refs/remotes/cb/*
+[remote "gl"]
+  url = git@gitlab.com:kr1sp1n/awesome-gemini.git
+  fetch = +refs/heads/*:refs/remotes/gl/*
