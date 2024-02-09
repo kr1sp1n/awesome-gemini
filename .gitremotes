@@ -1,0 +1,9 @@
+[remote "gh"]
+  url = git@github.com:kr1sp1n/awesome-gemini.git
+  fetch = +refs/heads/*:refs/remotes/gh/*
+[remote "sh"]
+  url = git@git.sr.ht:~kr1sp1n/awesome-gemini
+  fetch = +refs/heads/*:refs/remotes/sh/*
+[remote "cb"]
+  url = https://codeberg.org/kr1sp1n/awesome-gemini
+  fetch = +refs/heads/*:refs/remotes/cb/*
