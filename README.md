@@ -10,13 +10,9 @@ Repo mirrors:
 
 ## What is Gemini
 
-[Excerpt from gemini.circumlunar.space](https://gemini.circumlunar.space/docs/specification.html):
+[Excerpt from geminiprotocol.net](https://geminiprotocol.net):
 
-> Gemini is a client-server protocol featuring request-response transactions, broadly similar to gopher or HTTP.
-  Connections are closed at the end of a single transaction and cannot be reused. When Gemini is served over TCP/IP, servers
-  should listen on port 1965 (the first manned Gemini mission, Gemini 3, flew in March'65).
-  This is an unprivileged port, so it's very easy to run a server as a "nobody" user, even if e.g. the server is written
-  in Go and so can't drop privileges in the traditional fashion.
+> Gemini is a group of technologies similar to the ones that lie behind your familiar web browser. Using Gemini, you can explore an online collection of written documents which can link to other written documents. The main difference is that Gemini approaches this task with a strong philosophy of "keep it simple" and "less is enough". This allows Gemini to simply sidestep, rather than try and probably fail to solve, many of the problems plaguing the modern web, which just seem to get worse and worse no matter how many browser add-ons or well meaning regulations get thrown at them.
 
 ## Gemini Specification 
 
