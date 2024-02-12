@@ -212,6 +212,7 @@ Repo mirrors:
 - [Mehari](https://github.com/Psi-Prod/Mehari) - Featureful server in OCaml
 - [β-Doku](https://github.com/YGGverse/bdoku) (PHP) - DokuWiki Satellite for Gemini Protocol
 - [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
+- [gemini-server-clj](https://github.com/aburd/gemini-server-clj) (Clojure) - simple gemini server for serving static files
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
