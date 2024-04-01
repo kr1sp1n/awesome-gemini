@@ -307,6 +307,7 @@ Repo mirrors:
 - [koyu.space GemProxy](https://gemproxy.koyu.space)
 - [Wobbly](https://www.warmedal.se/~wobbly/)
 - [Tildeverse Gemini Proxy](https://gemini.tildeverse.org)
+- [yah2g: yet another http-to-gemini](https://gem.any-key.press/)
 
 ## Bots
 - [Fortune Teller Bot](https://github.com/t-900-a/gemini-fortune-bot) - Generates a fortune gmi file, gemlog/index.gmi, and atom.xml every time the bot is executed
