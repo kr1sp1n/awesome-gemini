@@ -214,7 +214,7 @@ Repo mirrors:
 - [β-Doku](https://github.com/YGGverse/bdoku) (PHP) - DokuWiki Satellite for Gemini Protocol
 - [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
 - [gemini-server-clj](https://github.com/aburd/gemini-server-clj) (Clojure) - simple gemini server for serving static files
-- [Yo!](https://github.com/YGGverse/Yo/tree/gemini) (PHP) - Search server and crawler with IPv6 support based on [Manticore](https://github.com/manticoresoftware)
+- [Yo!](https://github.com/YGGverse/Yo/tree/gemini) (PHP) - Search server and crawler with history snap support, based on [Manticore](https://github.com/manticoresoftware)
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
