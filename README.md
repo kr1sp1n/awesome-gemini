@@ -137,6 +137,7 @@ Repo mirrors:
 - [dremini](https://github.com/marty1885/dremini) (C++) - Highly concurrent C++ Gemini server and client library
 - [Opal](https://github.com/aschuhardt/Opal) (C#) - Gemini client library targeting .NET Standard 2.0.  Built-in support for TOFU and client certificates.
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
+- [phos](https://github.com/omar-polo/phos) (Common Lisp) - Gemini client library and experimental GUI
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
