@@ -142,6 +142,7 @@ Repo mirrors:
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
 - [Gemini TinyLog Specification](https://codeberg.org/bacardi55/gemini-tinylog-rfc) - A Tinylog is a simple file with all "microblog" style entries to share small contents and interact with other geminauts' tinylog.
 - [Adding Emoji Favicons to Gemini](https://portal.mozz.us/gemini/mozz.us/files/rfc_gemini_favicon.gmi) - Optional extension by Michael Lazar to the Gemini Protocol, with the goal to set a Unicode emoji as favicon for a site.
+- [misfin (is) mail (for the) small web](gemini://misfin.org/) - email for Geminispace.
 
 ## Resources
 - [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
@@ -238,6 +239,7 @@ Repo mirrors:
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 - __gemini://betahowto.duckdns.org__ - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku))
 - __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
+- __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
 
 ## Tools
 
