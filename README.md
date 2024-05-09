@@ -238,6 +238,7 @@ Repo mirrors:
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 - __gemini://betahowto.duckdns.org__ - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku))
 - __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
+- __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
 
 ## Tools
 
