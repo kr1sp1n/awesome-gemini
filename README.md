@@ -72,6 +72,7 @@ Repo mirrors:
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
 - [Offpunk](https://sr.ht/~lioploum/offpunk/) (Python) - Gemini, gopher, spartan and http/html offline-first browser.
+- [Omura](https://github.com/fzn0x/omura) (Node.js, Bun) - Pushing lightweight gemtext-based internet CLI client.
 - [Romulus](https://github.com/LukeEmmet/Romulus) (C#) - interactive TUI client with menus and mouse support
 - [Scroll-Term](https://gitlab.com/clseibold/scroll-term) (Go) - Gemini, Nex, and Scroll terminal client with audio streaming support.
 - [Telescope](//telescope.omarpolo.com) (C) - w3m-inspired, multi-protocol client that supports Gemini, Gopher and Finger
@@ -93,9 +94,11 @@ Repo mirrors:
 - [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - desktop GUI client with inline image viewing, multiple tabs, bookmarks and more.
 - [Molasses](https://github.com/jjsimpso/molasses) (Racket) - full-featured graphical Gopher and Gemini client with tabs.
 - [Moonlander](https://sr.ht/~admicos/moonlander/) (Rust) - the fanciest Gemini client in the entire solar system.
+- [Profectus](https://gitlab.com/clseibold/profectus) (Go) - Gemini, Nex, Spartan, and Scroll client with tabs, music player, streaming, and expansive theming.
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - graphical Gopher and Gemini client using QT.
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 - [Geopard](https://github.com/ranfdev/Geopard) (Rust) - A colorful, adaptive gemini browser.
+- [Yoda](https://github.com/YGGverse/Yoda) (PHP-GTK) - Experimental browser for Gemini Protocol based on [PHP-GTK](https://github.com/scorninpc/php-gtk3) and [gemini-php](https://github.com/YGGverse/gemini-php).
 
 #### Mobile
 - [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
@@ -137,6 +140,7 @@ Repo mirrors:
 - [dremini](https://github.com/marty1885/dremini) (C++) - Highly concurrent C++ Gemini server and client library
 - [Opal](https://github.com/aschuhardt/Opal) (C#) - Gemini client library targeting .NET Standard 2.0.  Built-in support for TOFU and client certificates.
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
+- [phos](https://github.com/omar-polo/phos) (Common Lisp) - Gemini client library and experimental GUI
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
@@ -158,6 +162,7 @@ Repo mirrors:
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - simple Gemini server written using Deno and Typescript.
 - [Dʒɛmɪni](https://sr.ht/~rwv/dezhemini/) (Racket) - server with features like SNI and CGI.
 - [Diamant](https://git.umaneti.net/diamant/) (Ruby) - simple Gemini server for static files.
+- [doc-server](https://github.com/doga/doc-server) (Deno/Typescript) - A Gemini server for serving JSDoc documentation. Built on the Kaksik library.
 - [Doppio](https://github.com/bhavanki/doppio) (Java) - single-JAR Gemini server with CGI, authentication, and Atom feed support.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - scheme-specific filtering proxy for Gemini clients to access the web.
 - [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - Gemini fileserver for the JVM.
@@ -214,6 +219,7 @@ Repo mirrors:
 - [β-Doku](https://github.com/YGGverse/bdoku) (PHP) - DokuWiki Satellite for Gemini Protocol
 - [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
 - [gemini-server-clj](https://github.com/aburd/gemini-server-clj) (Clojure) - simple gemini server for serving static files
+- [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
@@ -237,7 +243,8 @@ Repo mirrors:
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 - __gemini://betahowto.duckdns.org__ - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku))
-- __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
+- __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp))
+- __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 
 ## Tools
 
@@ -268,6 +275,7 @@ Repo mirrors:
 - [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
 - [Gopher-and-Gemini-Walker](https://github.com/mkamarin/Gopher-and-Gemini-Walker) (Python) - Terminal client (without network connectivity) to navigate a folder structure containing a Gemini capsule or Gopher hole.
 - [Gemini Diagnostics](https://github.com/michael-lazar/gemini-diagnostics) - A torture test for gemini servers
+- [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS Aggregator for Gemini Protocol
 - [gemini-dl](https://github.com/YGGverse/gemini-dl) (PHP) - CLI batch downloader for Gemini protocol
 
 ### Gemtext converters
@@ -307,6 +315,7 @@ Repo mirrors:
 - [koyu.space GemProxy](https://gemproxy.koyu.space)
 - [Wobbly](https://www.warmedal.se/~wobbly/)
 - [Tildeverse Gemini Proxy](https://gemini.tildeverse.org)
+- [yah2g: yet another http-to-gemini](https://gem.any-key.press/)
 
 ## Bots
 - [Fortune Teller Bot](https://github.com/t-900-a/gemini-fortune-bot) - Generates a fortune gmi file, gemlog/index.gmi, and atom.xml every time the bot is executed
