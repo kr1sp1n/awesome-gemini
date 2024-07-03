@@ -1,4 +1,5 @@
-# Awesome Gemini [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+#sudo su #
+ Awesome Gemini [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A collection of awesome things regarding the [gemini protocol][1] ecosystem.
 
 Please contribute to this list to link to all the awesome gemini projects out there.
