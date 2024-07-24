@@ -200,7 +200,6 @@ Repo mirrors:
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - full-featured Gemini server implemented in Go.
 - [MoonGem](https://sr.ht/~panda-roux/MoonGem) (C) - gemini server with inline Lua scripting for dynamic content generation.
 - [net-gemini](https://github.com/jackdoe/net-gemini) (Go) - gemini server inspired by Molly Brown.
-- [northstar](https://github.com/panicbit/northstar) (Rust) - gemini server implementation.
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - Gemini server implemented in PHP.
 - [Phoebe](https://alexschroeder.ch/cgit/phoebe/about/) (Perl) - Gemini/web wiki.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - simple server that will only serve one `index.gemini` file.
@@ -212,6 +211,7 @@ Repo mirrors:
 - [Taurus](https://git.sr.ht/~garritfra/taurus)(Rust) - A Concurrent Gemini Server.
 - [Titan](https://github.com/jahzielv/titan) (Rust) - simple TOML-configured Gemini server and an Express-like Gemini server framework.
 - [twins](https://code.rocketnine.space/tslocum/twins) (Go) - YAML-configured Gemini server supporting vhosts, FastCGI and reverse-proxying.
+- [twinstar](https://github.com/panicbit/twinstar) (Rust) - gemini server implementation.
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
 - [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
 - [SpaceBeans](https://git.usebox.net/spacebeans/about/) (Scala) - supports virtual hosting, user directories, classic CGI.
