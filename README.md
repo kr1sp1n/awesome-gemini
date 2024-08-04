@@ -220,6 +220,7 @@ Repo mirrors:
 - [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
 - [gemini-server-clj](https://github.com/aburd/gemini-server-clj) (Clojure) - simple gemini server for serving static files
 - [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
+- [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
