@@ -17,7 +17,8 @@ Repo mirrors:
 
 ## Gemini Specification 
 
-- [Official specification](https://gemini.circumlunar.space/docs/specification.gmi)
+- [Official protocol specification](https://geminiprotocol.net/docs/protocol-specification.gmi)
+- [Official gemtext specification](https://geminiprotocol.net/docs/gemtext-specification.gmi)
 - [protocol spec discussion and development](https://gitlab.com/gemini-specification/protocol)
 - [gemini-text spec discussion and development](https://gitlab.com/gemini-specification/gemini-text)
 
@@ -149,9 +150,8 @@ Repo mirrors:
 - [Adding Emoji Favicons to Gemini](https://portal.mozz.us/gemini/mozz.us/files/rfc_gemini_favicon.gmi) - Optional extension by Michael Lazar to the Gemini Protocol, with the goal to set a Unicode emoji as favicon for a site.
 
 ## Resources
-- [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html) - the Gemini protocol specification.
-- [gemini.circumlunar.space/software](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) - list of Gemini software.
-- [transjovian.org/gemini](https://transjovian.org/gemini/) - wiki space dedicated to Gemini communities and software.
+- [Gemini Specification](https://geminiprotocol.net/docs/) - the Gemini protocol documentation.
+- [geminiprotocol.net/software/](https://portal.mozz.us/gemini/geminiprotocol.net/software/) - list of Gemini software.
 
 ## Servers
 - [Agate](https://github.com/mbrubeck/agate) (Rust) - simple Gemini server for static files.
@@ -321,4 +321,4 @@ Repo mirrors:
 - [Fortune Teller Bot](https://github.com/t-900-a/gemini-fortune-bot) - Generates a fortune gmi file, gemlog/index.gmi, and atom.xml every time the bot is executed
 
 ---
-[1]: https://gemini.circumlunar.space/
+[1]: https://geminiprotocol.net
