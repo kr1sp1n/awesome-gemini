@@ -44,7 +44,6 @@ Repo mirrors:
 
 ### Terminal
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
-- [astro](https://github.com/blmayer/astro) (Shell) - terminal client using less written in POSIX shell script.
 - [astronaut](https://sr.ht/~adnano/astronaut/) (Go) - a gemini browser for the terminal
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) (Python) - Gemini client derived from the popular VF-1 Gopher client.
@@ -54,6 +53,7 @@ Repo mirrors:
 - [cgmnlm](https://git.sr.ht/~rwa/cgmnlm) (C) - colorful gemini line-mode client, fork of gmni.
 - [diohsc](https://mbays.sdf.org/diohsc/) (Haskell) - simple line-based command-response terminal user interface with ANSI colour.
 - [Elpher](https://thelambdalab.xyz/elpher/) (Emacs) - combined Gopher and Gemini client for the popular text editor / operating system.
+- [ereandel](https://github.com/blmayer/ereandel) (Shell) - terminal client using a custom pager written in POSIX shell script.
 - [gelim](https://sr.ht/~hedy/gelim/) (Go) - A minimalist line-mode smolnet client written in go.
 - [gem.awk](http://git.vgx.fr/gem.awk/file/gem.awk.html) (Awk) - minimal but usable interactive Gemini client in < 250 LOC of Awk.
 - [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
