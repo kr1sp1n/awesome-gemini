@@ -132,7 +132,7 @@ Repo mirrors:
 - [gusmobile](https://git.sr.ht/~rwa/gusmobile) (Python) - gemini client for Pyhton (used by geminispace.info)
 - [html2gemini](https://github.com/LukeEmmet/html2gemini) (Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)
 - [ignition](https://github.com/cbrews/ignition) (Python) - Gemini client transport/request library for python3.
-- [qgeminiserver](https://github.com/doga/kaksik) (Deno/TypeScript) - framework for building Gemini server applications. [kaksik](https://github.com/sergetymo/kaksik) fork.
+- [qgeminiserver](https://deno.land/x/qgeminiserver) (Deno/TypeScript) - framework for server applications. [kaksik](https://github.com/sergetymo/kaksik) fork and bug-fix.
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 - [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
