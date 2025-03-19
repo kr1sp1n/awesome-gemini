@@ -44,6 +44,7 @@ Repo mirrors:
 ## Clients
 
 ### Terminal
+- [masha](https://codeberg.org/michaelserra/masha) (C) - A simple, fast and reliable terminal Gemini client written in plain C.
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
 - [astronaut](https://sr.ht/~adnano/astronaut/) (Go) - a gemini browser for the terminal
 - [Asuka](https://git.sr.ht/~julienxx/asuka) (Rust) - an NCurses-based Gemini client.
