@@ -172,6 +172,7 @@ Repo mirrors:
 - [Ergol](http://adele.work/code/ergol/ergol.gmi) (PHP) - light Gemini server able to host several capsules with different cerificates.
 - [GeGoBi](https://tildegit.org/solderpunk/gegobi) (Python) - server to facilitate easy Gemini-Gopher bi-hosting.
 - [Gemeaux](https://github.com/brunobord/gemeaux) (Python) - server using only the Python standard library.
+- [Gemini Dock](https://github.com/mathiscode/gemini-dock) (TypeScript) - an extensible Gemini server with a built-in database and easy dynamic site creation focused on DX
 - [gemini-ipfs-gateway](https://git.sr.ht/~hsanjuan/gemini-ipfs-gateway) (Go) - an IPFS Gateway that makes IPFS content available over the Gemini protocol.
 - [gemini-server](https://hackage.haskell.org/package/gemini-server) (Haskell) - lightweight server for the Gemini protocol.
 - [geminid](https://github.com/jovoro/geminid/) (C) - Gemini Server in C.
