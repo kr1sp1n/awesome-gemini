@@ -258,6 +258,7 @@ Repo mirrors:
 - __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp))
 - __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 - __gemini://fumble-around.mediocregopher.com__ - Explore gemspace by hopping from one random interesting page to the next.
+- __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
 
 ## Tools
 
