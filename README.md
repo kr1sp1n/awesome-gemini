@@ -3,7 +3,12 @@ A collection of awesome things regarding the [gemini protocol][1] ecosystem.
 
 Please contribute to this list to link to all the awesome gemini projects out there.
 
-Repo mirrors:
+> Note: This list is an updated fork of [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) by [kr1sp1n](https://github.com/kr1sp1n).
+> I'm not the original author of this list, but I'm the current maintainer since the original author is inactive.
+> If the original author begins maintaining the list again, you can find all of those mirrors below.
+> -- [mathiscode](https://github.com/mathiscode)
+
+Currently outdated repo mirrors:
 * https://codeberg.org/kr1sp1n/awesome-gemini
 * https://git.sr.ht/~kr1sp1n/awesome-gemini
 * https://gitlab.com/kr1sp1n/awesome-gemini
