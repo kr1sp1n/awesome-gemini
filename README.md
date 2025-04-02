@@ -139,7 +139,7 @@ Repo mirrors:
 - [gusmobile](https://git.sr.ht/~rwa/gusmobile) (Python) - gemini client for Pyhton (used by geminispace.info)
 - [html2gemini](https://github.com/LukeEmmet/html2gemini) (Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)
 - [ignition](https://github.com/cbrews/ignition) (Python) - Gemini client transport/request library for python3.
-- [qgeminiserver](https://deno.land/x/qgeminiserver) (Deno/TypeScript) - framework for server applications. [kaksik](https://github.com/sergetymo/kaksik) fork and bug-fix.
+- [qgeminiserver](https://github.com/doga/qgeminiserver) (Deno/TypeScript) - framework for server applications. A [kaksik](https://github.com/sergetymo/kaksik) fork that fixes bugs and keeps away bit-rot.
 - [kaksik](https://github.com/sergetymo/kaksik) (Deno/TypeScript) - middleware library for building server applications.
 - [ruby-net-text](https://git.umaneti.net/ruby-net-text/) (Ruby) - Gemini support in Net::* and URI::* stack.
 - [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
@@ -172,7 +172,6 @@ Repo mirrors:
 - [Denoscuri](https://github.com/caranatar/denoscuri) (Typescript) - simple Gemini server written using Deno and Typescript.
 - [Dʒɛmɪni](https://sr.ht/~rwv/dezhemini/) (Racket) - server with features like SNI and CGI.
 - [Diamant](https://git.umaneti.net/diamant/) (Ruby) - simple Gemini server for static files.
-- [doc-server](https://github.com/doga/doc-server) (Deno/Typescript) - A Gemini server for serving JSDoc documentation. Built on the Kaksik library.
 - [Doppio](https://github.com/bhavanki/doppio) (Java) - single-JAR Gemini server with CGI, authentication, and Atom feed support.
 - [Duckling proxy 🦆](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/31-Aug-2020_The_Duckling_Proxy.gmi) (Go) - scheme-specific filtering proxy for Gemini clients to access the web.
 - [Earl Server](https://github.com/mrletourneau/EarlServer) (Kotlin) - Gemini fileserver for the JVM.
@@ -185,6 +184,7 @@ Repo mirrors:
 - [geminid](https://github.com/jovoro/geminid/) (C) - Gemini Server in C.
 - [geminid](https://www.upyum.com/cgit.cgi/geminid) (Scheme) - Gemini Server in CHICKEN Scheme.
 - [gemini-php](https://opensource.glasgow.social/gemini-php) (PHP) - simple Gemini server in PHP.
+- [geminispace-jsdoc-server](https://github.com/doga/geminispace-jsdoc-server) A Gemini server for serving JSDoc documentation on the Deno runtime.
 - [Gneto](https://github.com/pgorman/gneto) (Go) - Gemini over HTTP proxy, with support for client certificates and CSS customization.
 - [JAGS-php](https://github.com/codeandcreate/JAGS-PHP) (PHP) - fork of gemini-php with support of dynamic pages.
 - [jsonresume-gemini](https://github.com/michaelcaplan/jsonresume-gemini) (PHP) -  single purpose server implementation of the Gemini protocol to serve up your JSON Resume.
