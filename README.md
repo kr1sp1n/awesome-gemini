@@ -239,6 +239,7 @@ Repo mirrors:
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [Yo!](https://github.com/YGGverse/Yo/tree/gemini) (PHP) - Search server and crawler with history snap support, based on [Manticore](https://github.com/manticoresoftware)
 - [tripod](https://github.com/aartaka/tripod) (Common Lisp) - Polyglot blog engine serving Gemtext, Gopher, HTML, and plaintext
+- [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS aggregation server for Gemini Protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
@@ -296,8 +297,8 @@ Repo mirrors:
 - [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
 - [Gopher-and-Gemini-Walker](https://github.com/mkamarin/Gopher-and-Gemini-Walker) (Python) - Terminal client (without network connectivity) to navigate a folder structure containing a Gemini capsule or Gopher hole.
 - [Gemini Diagnostics](https://github.com/michael-lazar/gemini-diagnostics) - A torture test for gemini servers
-- [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS Aggregator for Gemini Protocol
 - [gemini-dl](https://github.com/YGGverse/gemini-dl) (PHP) - CLI batch downloader for Gemini protocol
+- [pulsarss](https://github.com/YGGverse/pulsarss) (Rust) - Crawl & Convert RSS feeds into static Gemtext
 
 ### Gemtext converters
 - [dioscuri](https://github.com/wooorm/dioscuri) (JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.
