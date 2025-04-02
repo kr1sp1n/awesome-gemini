@@ -90,6 +90,7 @@ Repo mirrors:
 ### Graphical
 #### Cross-platform
 - [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) - (Electron.js) - peer to peer web browser with support for loading Gemini pages.
+- [Alhena](https://github.com/mochaman/alhena) - (Java) themes, color emojis on Mac, inline images, etc. jlinked exes do not require Java.
 - [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 - [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - graphical Gemini client using GTK.
 - [Eva](https://codeberg.org/jeang3nie/eva) (Rust) - a Gemini protocol browser in Gtk4
