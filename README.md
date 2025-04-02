@@ -36,6 +36,7 @@ Repo mirrors:
       - [Windows](#windows)
       - [MacOS](#macos)
       - [AmigaOS](#amigaos)
+      - [File System](#file-system)
   - [Programming](#programming)
   - [Related Specifications](#related-specifications)
   - [Resources](#resources)
@@ -124,6 +125,9 @@ Repo mirrors:
 
 #### AmigaOS
 - [AmiGemini](http://aminet.net/package/comm/net/AmiGemini)
+
+#### File System
+- [GeminiFS](https://github.com/harkaitz/c-geminifs) (C) - FUSE filesystem for Gemini capsules.
 
 ## Programming
 - [Agunua](https://framagit.org/bortzmeyer/agunua) (Python) - Gemini library to write clients. Includes IRI support, gemtext parsing and CLI tool.
