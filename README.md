@@ -231,6 +231,7 @@ Repo mirrors:
 - [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [Yo!](https://github.com/YGGverse/Yo/tree/gemini) (PHP) - Search server and crawler with history snap support, based on [Manticore](https://github.com/manticoresoftware)
+- [tripod](https://github.com/aartaka/tripod) (Common Lisp) - Polyglot blog engine serving Gemtext, Gopher, HTML, and plaintext
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
