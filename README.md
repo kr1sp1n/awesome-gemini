@@ -150,6 +150,7 @@ Repo mirrors:
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
 - [phos](https://github.com/omar-polo/phos) (Common Lisp) - Gemini client library and experimental GUI
 - [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.
+- [gemtext-php](https://github.com/YGGverse/gemtext-php) (PHP) - object-oriented library for Gemtext operations.
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
