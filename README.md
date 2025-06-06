@@ -125,6 +125,7 @@ Currently outdated repo mirrors:
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
 - [gemini.koplugin](https://repo.or.cz/gemini.koplugin.git) a Gemini client for [KOReader](https://koreader.rocks), an extendable document viewer for e-ink devices
+- [Gemicom](https://gemicom.app) (Kotlin, C++) A Gemini client for Android built on a Bison/Flex parser.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
