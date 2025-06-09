@@ -279,6 +279,7 @@ Currently outdated repo mirrors:
 - __gemini://fumble-around.mediocregopher.com__ - Explore gemspace by hopping from one random interesting page to the next.
 - __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
 - __gemini://geminai.mathis.network__ - Chat with Google Gemini AI on the Gemini Protocol
+- __gemini://abyss.cinderblock.moe__ - A SpaceEmail clone where you can leave messages and randomly view others' ([repo](https://github.com/sheepy0125/abyss))
 
 ## Tools
 
