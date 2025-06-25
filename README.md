@@ -149,6 +149,7 @@ Repo mirrors:
 - [dremini](https://github.com/marty1885/dremini) (C++) - Highly concurrent C++ Gemini server and client library
 - [Opal](https://github.com/aschuhardt/Opal) (C#) - Gemini client library targeting .NET Standard 2.0.  Built-in support for TOFU and client certificates.
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
+- [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.
 - [phos](https://github.com/omar-polo/phos) (Common Lisp) - Gemini client library and experimental GUI
 - [titanite](https://github.com/YGGverse/titanite) (Rust) - Client/Server library for Gemini protocol with Titan support
 
@@ -230,6 +231,7 @@ Repo mirrors:
 - [β-Doku](https://github.com/YGGverse/bdoku) (PHP) - DokuWiki Satellite for Gemini Protocol
 - [KevaChat](https://github.com/kevachat/geminiapp) (PHP) - client/server Chat in Blockchain
 - [gemini-server-clj](https://github.com/aburd/gemini-server-clj) (Clojure) - simple gemini server for serving static files
+- [Yo!](https://github.com/YGGverse/Yo/tree/gemini) (PHP) - Search server and crawler with history snap support, based on [Manticore](https://github.com/manticoresoftware)
 - [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [titanit](https://github.com/YGGverse/titanit) (Rust) - File share server for Titan protocol with Gemini frontend
