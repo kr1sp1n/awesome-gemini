@@ -243,6 +243,7 @@ Repo mirrors:
 - __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
 - __gemini://gemplex.space/__ - experimental Search Engine for Gemini written in Go
 - __gemini://kennedy.gemi.dev/__ - public search provider for Gemini
+- __gemini://aurasearch.ddns.net/__ - Search Engine for Gemini, Nex, Spartan, and Scroll
 - __gemini://tictactoe.lanterne.chilliet.eu__ - Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
 - __gemini://tilde.cafe/~spellbinding/game/cgi?__ - make words with specified letters
 - __gemini://tilde.cafe/~spellbinding/wordo/cgi?__ - a wordle-like game
