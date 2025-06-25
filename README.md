@@ -256,12 +256,12 @@ Repo mirrors:
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
 - __gemini://betahowto.duckdns.org__ - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku))
-- __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp))
-- __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 - __gemini://fumble-around.mediocregopher.com__ - Explore gemspace by hopping from one random interesting page to the next.
+- __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
+- __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
+- __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 
 ## Tools
-
 - [astroget](https://github.com/zzo38/scorpion/blob/trunk/astroget.c) (C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
 - [certified](https://code.lag.net/robey/certified) (Python) - Generate TOFU TLS certificates for gemini servers.
