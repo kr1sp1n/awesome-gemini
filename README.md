@@ -239,9 +239,6 @@ Repo mirrors:
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
-- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://sr.ht/~rwa/geminispace.info)).
-- __gemini://geddit.glv.one__ - interactive link service (with comments).
-- __gemini://glv.one__ - free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
 - __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
 - __gemini://gemplex.space/__ - experimental Search Engine for Gemini written in Go
 - __gemini://kennedy.gemi.dev/__ - public search provider for Gemini
@@ -251,10 +248,6 @@ Repo mirrors:
 - __gemini://tilde.cafe/~spellbinding/wordo/cgi?__ - a wordle-like game
 - __gemini://tilde.cafe/~spellbinding/wall/cgi__ - A public wall where you can leave a message
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-- __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
-- __gemini://rawtext.club/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
-- __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
-- __gemini://tilde.cafe/~stack/weather__ - weather forecast powered by wttr.in
 - [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
