@@ -103,7 +103,7 @@ Repo mirrors:
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 - [Geopard](https://github.com/ranfdev/Geopard) (Rust) - A colorful, adaptive gemini browser.
 - [vimini](https://git.sr.ht/~lufte/vimini) (Rust) - Desktop gemini browser inspired by qutebrowser and Vim.
-- [Yoda](https://github.com/YGGverse/Yoda) (PHP-GTK) - Experimental browser for Gemini Protocol based on [PHP-GTK](https://github.com/scorninpc/php-gtk3) and [gemini-php](https://github.com/YGGverse/gemini-php).
+- [Yoda](https://github.com/YGGverse/Yoda) (Rust) - GTK 4 / Libadwaita client written in Rust.
 
 #### Mobile
 - [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
@@ -151,6 +151,8 @@ Repo mirrors:
 - [gemax](https://github.com/ninedraft/gemax) (Go) - a golang gemini stack, inspired by go STD http library.
 - [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.
 - [phos](https://github.com/omar-polo/phos) (Common Lisp) - Gemini client library and experimental GUI
+- [ggemtext](https://github.com/YGGverse/ggemtext) (Rust) - Glib-oriented Gemtext API
+- [ggemini](https://github.com/YGGverse/ggemini) (Rust) - Glib/Gio-oriented client for Gemini protocol
 - [titanite](https://github.com/YGGverse/titanite) (Rust) - Client/Server library for Gemini protocol with Titan support
 
 ## Related Specifications
@@ -313,6 +315,7 @@ Repo mirrors:
 - [Hugo-2-Gopher-and-Gemini](https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini) (Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.
 - [gemini-php](https://github.com/YGGverse/gemini-php) (PHP) - Composer library for Gemini - includes DokuWiki converter, file-system operations and other API
 - [gemitwee](https://tildegit.org/smallbird/gemitwee) (PHP) - Converts Twine's Twee2 markup to a set of Gemini files for simple choose-your-own-adventure games.
+- [ggemtext](https://github.com/YGGverse/ggemtext) (Rust) - Glib-oriented Gemtext API
 
 ### Syntax Highlighting
 - [gemini-vim-syntax](https://tildegit.org/sloum/gemini-vim-syntax) - text/gemini syntax highlighting for vim.
