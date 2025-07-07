@@ -293,6 +293,7 @@ Repo mirrors:
 - [Gopher-and-Gemini-Walker](https://github.com/mkamarin/Gopher-and-Gemini-Walker) (Python) - Terminal client (without network connectivity) to navigate a folder structure containing a Gemini capsule or Gopher hole.
 - [Gemini Diagnostics](https://github.com/michael-lazar/gemini-diagnostics) - A torture test for gemini servers
 - [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS Aggregator for Gemini Protocol
+- [spsg](https://git.sr.ht/~sbr/spsg) (Go) - Small Protocol Static Generator - Produces Gemini/Gopher/Nex indexes based on gemini posts.
 
 ### Gemtext converters
 - [dioscuri](https://github.com/wooorm/dioscuri) (JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.
