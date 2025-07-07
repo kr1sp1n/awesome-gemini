@@ -263,6 +263,7 @@ Repo mirrors:
 - __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
 - __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
 - __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
+- __gemini://godocs.8by3.net__ - Go Docs
 
 ## Tools
 - [astroget](https://github.com/zzo38/scorpion/blob/trunk/astroget.c) (C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.
