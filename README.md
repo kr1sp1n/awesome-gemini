@@ -235,6 +235,7 @@ Repo mirrors:
 - [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [titanit](https://github.com/YGGverse/titanit) (Rust) - File share server for Titan protocol with Gemini frontend
+- [βtracker](https://github.com/YGGverse/btracker-gemini) (Rust) - BitTorrent catalog for the Gemini protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
