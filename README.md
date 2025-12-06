@@ -281,7 +281,7 @@ Repo mirrors:
 - [astroget](https://github.com/zzo38/scorpion/blob/trunk/astroget.c) (C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.
 - [CAPCOM](https://git.sr.ht/~solderpunk/capcom) (Python) - Atom feed aggregator for gemini.
 - [certified](https://code.lag.net/robey/certified) (Python) - Generate TOFU TLS certificates for gemini servers.
-- [cl-yag](git://bitreich.org/cl-yag) (Common-Lisp) - Static site generator producing gemini, gopher and html.
+- [cl-yag](https://git.sr.ht/~solene/cl-yag) (Common-Lisp) - Static site generator producing gemini, gopher and html.
 - [comitium](https://git.nytpu.com/comitium) (C) - A feed aggregator for gemini supporting many formats and protocols.
 - [gemfreely](https://git.agnos.is/projectmoon/gemfreely) (Rust) - Synchronize gemlogs to the Fediverse via WriteFreely.
 - [gemget](https://github.com/makew0rld/gemget) (Go) - Command line downloader for the Gemini protocol.
