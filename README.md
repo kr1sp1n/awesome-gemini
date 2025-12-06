@@ -242,7 +242,7 @@ Repo mirrors:
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
-- __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
+- __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://git.sr.ht/~aw/flounder)).
 - [Gemini Universal Search](https://sr.ht/~rwa/geminispace.info) - public search provider for Gemini.
 - __gemini://gemplex.space/__ - experimental Search Engine for Gemini written in Go
 - __gemini://kennedy.gemi.dev/__ - public search provider for Gemini
