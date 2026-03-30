@@ -115,6 +115,7 @@ Repo mirrors:
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
 
 #### Windows
+- [Gemini Desktop](https://github.com/sciroccodomme/gemini-desktop) (Electron) - Simple open-source Windows desktop client for Google Gemini with shortcut access.
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
 
 #### MacOS
