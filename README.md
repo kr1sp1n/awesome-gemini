@@ -71,6 +71,7 @@ Repo mirrors:
 - [gmni](https://sr.ht/~sircmpwn/gmni/) (C) - CLI utility (like curl) and line-mode browser.
 - [gplaces](https://github.com/dimkr/gplaces) (C) - command-driven, terminal based Gemini client in ~1K LOC of C.
 - [Gremlin](https://github.com/actuday6418/gremlin) (Rust) - TUI for browsing Gemini space
+- [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - TUI client for Gemini, Gopher, Nex, and Spartan with multiple tabs, bookmarks and more.
 - [leo](https://github.com/shantaram3013/leo) (Python) - lightweight, prompt-driven Gemini client. 
 - [min](https://github.com/a-h/min) (Go) - supports advanced features like input and client certificate generation.
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
@@ -95,7 +96,7 @@ Repo mirrors:
 - [Gemalaya](https://gitlab.com/cipres/gemgemgem) (Python/QML) - Keyboard-driven Gemini browser with builtin web-to-gemini proxy
 - [Gerbil](https://gitlab.com/armen138/gerbil) (Python) - Gemini and Spartan browser written in python with GTK and LibHandy for desktop and mobile
 - [Gem2Browser](https://swee.codes/gem2browser) (Python/Flask) - A "web client" for Gemini that's made to support most browsers.
-- [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - desktop GUI client with inline image viewing, multiple tabs, bookmarks and more.
+- [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - desktop GUI client for Gemini, Gopher, Nex, and Spartan with inline image viewing, multiple tabs, bookmarks and more.
 - [Molasses](https://github.com/jjsimpso/molasses) (Racket) - full-featured graphical Gopher and Gemini client with tabs.
 - [Moonlander](https://sr.ht/~admicos/moonlander/) (Rust) - the fanciest Gemini client in the entire solar system.
 - [Profectus](https://gitlab.com/clseibold/profectus) (Go) - Gemini, Nex, Spartan, and Scroll client with tabs, music player, streaming, and expansive theming.
@@ -110,9 +111,10 @@ Repo mirrors:
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Elaho](https://github.com/pitr/gemini-ios) (Swift) - full featured Gemini protocol browser for iOS.
 - [Gem](https://open-store.io/app/gem.aaron) (Python) - Gemini client for Ubuntu Touch.
-- [Xenia](https://gitlab.com/tslocum/xenia) (Java) - Gemini proxy for Android.
+- [Lagrange](https://git.skyjake.fi/skyjake/lagrange) (C) - mobile GUI client for Android, iOS, and iPadOS implementing Gemini, Gopher, Nex, and Spartan protocols with inline image viewing, multiple tabs, bookmarks and more.
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
+- [Xenia](https://codeberg.org/tslocum/xenia) (Java) - Gemini proxy for Android.
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
