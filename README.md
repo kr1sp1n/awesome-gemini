@@ -110,6 +110,7 @@ Repo mirrors:
 - [Deedum](https://github.com/snoe/deedum) (Dart) - an Android and iOS client made with Flutter.
 - [Elaho](https://github.com/pitr/gemini-ios) (Swift) - full featured Gemini protocol browser for iOS.
 - [Gem](https://open-store.io/app/gem.aaron) (Python) - Gemini client for Ubuntu Touch.
+- [Narrow32](https://apps.apple.com/us/app/narrow32/id6755984760) ([Android](https://play.google.com/store/apps/details?id=com.alxsla.narrow32&hl=en-US)) (Swift/Kotlin) - Browser optimized for slow connections with Gemini and Gopher protocol support for iOS and Android.
 - [Xenia](https://gitlab.com/tslocum/xenia) (Java) - Gemini proxy for Android.
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
