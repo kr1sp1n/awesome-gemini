@@ -241,30 +241,13 @@ Repo mirrors:
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
-- __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://sr.ht/~rwa/geminispace.info)).
-- __gemini://geddit.glv.one__ - interactive link service (with comments).
-- __gemini://glv.one__ - free platform as a service (PaaS) that runs any Gemini server (packaged as a Docker image) in the cloud.
-- __gemini://gemini.omarpolo.com/cgi/gempkg/__ - interface for the OpenBSD ports collection.
 - __gemini://gemplex.space/__ - experimental Search Engine for Gemini written in Go
 - __gemini://kennedy.gemi.dev/__ - public search provider for Gemini
-- __gemini://aurasearch.ddns.net/__ - Search Engine for Gemini, Nex, Spartan, and Scroll
-- __gemini://tictactoe.lanterne.chilliet.eu__ - Tic Tac Toe game ([repo](https://framagit.org/MCMic/gemini-tictactoe)).
-- __gemini://tilde.cafe/~spellbinding/game/cgi?__ - make words with specified letters
-- __gemini://tilde.cafe/~spellbinding/wordo/cgi?__ - a wordle-like game
-- __gemini://tilde.cafe/~spellbinding/wall/cgi__ - A public wall where you can leave a message
 - __gemini://ur.gs/__ - translate from en->es and es->en ([repo](https://code.ur.gs/lupine/capsule/src/branch/main/src/cgi-bin/translate)).
-- __gemini://rawtext.club/~sloum/geminews/__ - Daily news feeds proxied to gemini.
-- __gemini://rawtext.club/~sloum/cgi/othello/__ - Play othello/reversi against a computer opponent over gemini.
-- __gemini://rawtext.club/~sloum/cgi/weather__ - US weather reports by zip code.
-- __gemini://tilde.cafe/~stack/weather__ - weather forecast powered by wttr.in
-- [gemlog.blue](https://gemlog.blue) - Gemini hosting from a web frontend.
 - __gemini://houston.gmi.bacardi55.io__ - A simple tool to check if a capsule is up or not
 - __gemini://tlgs.one__ - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs)).
-- __gemini://betahowto.duckdns.org__ - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku))
 - __gemini://fumble-around.mediocregopher.com__ - Explore gemspace by hopping from one random interesting page to the next.
 - __gemini://hashnix.club:1958/__ - hashnix.club email service provider for Gemini
-- __gemini://kevachat.duckdns.org__ - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp)).
-- __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 
 ## Tools
 - [astroget](https://github.com/zzo38/scorpion/blob/trunk/astroget.c) (C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.
