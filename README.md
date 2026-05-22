@@ -302,6 +302,7 @@ Repo mirrors:
 - [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS Aggregator for Gemini Protocol
 - [gemini-dl](https://github.com/YGGverse/gemini-dl) (PHP) - CLI batch downloader for Gemini protocol
 - [pulsarss](https://github.com/YGGverse/pulsarss) (Rust) - Crawl & Convert RSS feeds into static Gemtext
+- [spsg](https://git.sr.ht/~sbr/spsg) (Go) - Small Protocol Static Generator - Produces Gemini/Gopher/Nex indexes based on gemini posts.
 
 ### Gemtext converters
 - [dioscuri](https://github.com/wooorm/dioscuri) (JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.
