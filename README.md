@@ -241,6 +241,7 @@ Repo mirrors:
 - [vostok](https://got.any-key.press/?action=summary&path=vostok.git) (__gemini://vostok.any-key.press/__) (C++11) - gemini server
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [titanit](https://github.com/YGGverse/titanit) (Rust) - File share server for Titan protocol with Gemini frontend
+- [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS aggregation server for Gemini Protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
@@ -300,6 +301,7 @@ Repo mirrors:
 - [Gemini Diagnostics](https://github.com/michael-lazar/gemini-diagnostics) - A torture test for gemini servers
 - [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS Aggregator for Gemini Protocol
 - [gemini-dl](https://github.com/YGGverse/gemini-dl) (PHP) - CLI batch downloader for Gemini protocol
+- [pulsarss](https://github.com/YGGverse/pulsarss) (Rust) - Crawl & Convert RSS feeds into static Gemtext
 
 ### Gemtext converters
 - [dioscuri](https://github.com/wooorm/dioscuri) (JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.
