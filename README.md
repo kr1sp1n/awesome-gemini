@@ -244,6 +244,7 @@ Repo mirrors:
 - [gem](https://github.com/wrclark/gem) (C) - static file server with many features
 - [titanit](https://github.com/YGGverse/titanit) (Rust) - File share server for Titan protocol with Gemini frontend
 - [Pulsar](https://github.com/YGGverse/Pulsar) (PHP) - RSS aggregation server for Gemini Protocol
+- [βtracker](https://github.com/YGGverse/btracker-gemini) (Rust) - BitTorrent catalog for the Gemini protocol
 
 ## Services
 - __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
