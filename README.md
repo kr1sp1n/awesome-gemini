@@ -275,6 +275,7 @@ Repo mirrors:
 - __gemini://kvazar.duckdns.org__ - Observe Kevacoin Universe ([repo](https://github.com/kvazar-network/geminiapp))
 
 ## Tools
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Google Classroom sync, Gemini-powered study plans, SRS flashcards, AI quiz generator, GPA predictor, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 - [astroget](https://github.com/zzo38/scorpion/blob/trunk/astroget.c) (C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.
 - [CAPCOM](https://tildegit.org/solderpunk/CAPCOM) (Python) - Atom feed aggregator for gemini.
 - [certified](https://code.lag.net/robey/certified) (Python) - Generate TOFU TLS certificates for gemini servers.
