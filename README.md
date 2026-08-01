@@ -308,6 +308,7 @@ Repo mirrors:
 - [gemini-dl](https://github.com/YGGverse/gemini-dl) (PHP) - CLI batch downloader for Gemini protocol
 - [pulsarss](https://github.com/YGGverse/pulsarss) (Rust) - Crawl & Convert RSS feeds into static Gemtext
 - [spsg](https://git.sr.ht/~sbr/spsg) (Go) - Small Protocol Static Generator - Produces Gemini/Gopher/Nex indexes based on gemini posts.
+- [De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin) by @1himanshu1804442 - AI-powered Chrome Extension that rewrites generic AI-slop into tailored personal styles using Gemini 2.5 Flash with fallback to client-side Gemini Nano.
 
 ### Gemtext converters
 - [dioscuri](https://github.com/wooorm/dioscuri) (JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.
