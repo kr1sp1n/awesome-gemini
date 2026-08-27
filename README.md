@@ -106,6 +106,7 @@ Repo mirrors:
 - [Geopard](https://github.com/ranfdev/Geopard) (Rust) - A colorful, adaptive gemini browser.
 - [vimini](https://git.sr.ht/~lufte/vimini) (Rust) - Desktop gemini browser inspired by qutebrowser and Vim.
 - [Yoda](https://github.com/YGGverse/Yoda) (Rust) - GTK 4 / Libadwaita client written in Rust.
+- [sterrenkijker](https://codeberg.org/mochapi/sterrenkijker) (Dart) - A modern & pretty gemini client for phones and computers
 
 #### Mobile
 - [Buran](https://github.com/Corewala/Buran) (Kotlin/Java) - Gemini browser for Android, fork of Ariane.
@@ -117,6 +118,7 @@ Repo mirrors:
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
 - [Xenia](https://codeberg.org/tslocum/xenia) (Java) - Gemini proxy for Android.
+- [sterrenkijker](https://codeberg.org/mochapi/sterrenkijker) (Dart) - A modern & pretty gemini client for phones and computers
 
 #### Windows
 - [GemiNaut](https://www.marmaladefoo.com/pages/geminaut) (C#) - user friendly graphical Gemini client for MS Windows.
