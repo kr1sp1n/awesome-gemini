@@ -220,6 +220,7 @@ Repo mirrors:
 - [MoonGem](https://sr.ht/~panda-roux/MoonGem) (C) - gemini server with inline Lua scripting for dynamic content generation.
 - [net-gemini](https://github.com/jackdoe/net-gemini) (Go) - gemini server inspired by Molly Brown.
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - Gemini server implemented in PHP.
+- [Perigee](https://codeberg.org/bunburya/perigee) (Rust) - Gemini server written in Rust.
 - [Phoebe](https://alexschroeder.ch/cgit/phoebe/about/) (Perl) - Gemini/web wiki.
 - [pollux](https://git.sr.ht/~julienxx/pollux) (Rust) - simple server that will only serve one `index.gemini` file.
 - [rc-gemd](https://sr.ht/~moody/rc-gemd) (Shell) - simple Gemini server written in rc (for plan9 operating systems).
