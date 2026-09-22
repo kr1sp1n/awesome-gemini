@@ -287,6 +287,7 @@ Repo mirrors:
 - [gemini-antenna](https://notabug.org/tinyrabbit/gemini-antenna) (Python) - A feed-aggregator for Gemini, triggered by submissions.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gemlog.sh](https://git.sr.ht/~nytpu/gemlog.sh) (Bash) - Utility for writing and managing gemini logs (gemlogs) and atom feeds (simple gemini static site generator/framework).
+- [gemloginplace](https://codeberg.org/kvibber/gemloginplace) (Perl) - Utility for generating category/tag indexes and updating navigation links in an otherwise hand-coded gemlog
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
 - [gemmit](https://github.com/t-900-a/gemmit) (Go) - social news aggregation and web content rating website for the gemini protocol.
 - [gempost](https://github.com/justlark/gempost) (Rust) - Simple static site generator for Gemini blogs.
