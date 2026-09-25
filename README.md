@@ -225,6 +225,7 @@ Repo mirrors:
 - [rc-gemd](https://sr.ht/~moody/rc-gemd) (Shell) - simple Gemini server written in rc (for plan9 operating systems).
 - [Satellite](https://sr.ht/~gsthnz/satellite/) (Go) - small Gemini server for serving static files.
 - [Shavit](https://git.sr.ht/~yotam/shavit) (Go) - configurable Gemini server for UNIX operating systems.
+- [SmolServ](gemini://nil.im/smolserv) (ObjC) - Portable Gemini and HTTP(S) server written in ObjC using ObjFW.
 - [Smolver](https://gitlab.com/g2764/smolver) (Swift) - a small Gemini server.
 - [Space-Age](https://gitlab.com/lambdatronic/space-age) (Clojure) - Gemini server written in Clojure.
 - [Taurus](https://git.sr.ht/~garritfra/taurus)(Rust) - A Concurrent Gemini Server.
