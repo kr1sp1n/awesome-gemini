@@ -116,6 +116,7 @@ Repo mirrors:
 - [Narrow32](https://apps.apple.com/us/app/narrow32/id6755984760) ([Android](https://play.google.com/store/apps/details?id=com.alxsla.narrow32&hl=en-US)) (Swift/Kotlin) - Browser optimized for slow connections with Gemini and Gopher protocol support for iOS and Android.
 - [Phaedra](https://oppen.digital/software/phaedra/) (Java) - Gemini client for Android supporting even very old ones; author recommends using Ariana if a current Android is at hand.
 - [Rosy Crow](https://rosy-crow.app) (C#) - An Android client built using .NET MAUI.
+- [The Mews Browser](https://code.randogoth.com/randogoth/the-mews) (Flutter) - Reader for Mews Profile WAP pages, Gemini and Spartan. With bookmarks, subscriptions, quotations.
 - [Xenia](https://codeberg.org/tslocum/xenia) (Java) - Gemini proxy for Android.
 
 #### Windows
@@ -207,6 +208,7 @@ Repo mirrors:
 - [Germinal](https://github.com/jfmcbrayer/germinal) (Common Lisp) - serves any type of document with an appropriate mime type.
 - [GLV-1.12556](https://github.com/spc476/GLV-1.12556) (Lua) - the first Gemini protocol server with a lot of features.
 - [Hydepark](https://github.com/spektom/hydepark) (Rust) - discussion forum application for Gemini.
+- [itsybitsy](https://code.randogoth.com/randogoth/itsybitsy) (Rust) - Serve Markdown to different domains as WAP, Gemini, Spartan, Nex and Gopher
 - [Jetforce](https://github.com/michael-lazar/jetforce) (Python) - built-in static file server with support for gemini directories and CGI scripts.
 - [jemini](https://github.com/warmuuh/jemini)(Java) - dual gemini/http server on top of jetty with spring-boot integration
 - [laika](https://sr.ht/~gbmor/laika/) (Rust) - async Gemini protocol server.
