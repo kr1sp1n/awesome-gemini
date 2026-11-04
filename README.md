@@ -287,6 +287,7 @@ Repo mirrors:
 - [gemfreely](https://git.agnos.is/projectmoon/gemfreely) (Rust) - Synchronize gemlogs to the Fediverse via WriteFreely.
 - [gemget](https://github.com/makew0rld/gemget) (Go) - Command line downloader for the Gemini protocol. 
 - [gemini-antenna](https://notabug.org/tinyrabbit/gemini-antenna) (Python) - A feed-aggregator for Gemini, triggered by submissions.
+- [Gemini-Checkpoints](https://github.com/adrybyte/gemini-checkpoints) - Floating navigation panel and prompt index for Google Gemini.
 - [geminize](https://addons.mozilla.org/en-US/firefox/addon/geminize/) - Firefox addon that redirects gemini:// URLs and links to a customizable HTTP-to-Gemini proxy.
 - [gemlog.sh](https://git.sr.ht/~nytpu/gemlog.sh) (Bash) - Utility for writing and managing gemini logs (gemlogs) and atom feeds (simple gemini static site generator/framework).
 - [gem.git](https://git.sr.ht/~fkfd/git.gmi/) (Python) - git frontend CGI script.
