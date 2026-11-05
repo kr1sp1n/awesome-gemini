@@ -163,6 +163,7 @@ Repo mirrors:
 - [ggemini](https://github.com/YGGverse/ggemini) (Rust) - Glib/Gio-oriented client for Gemini protocol
 - [titanite](https://github.com/YGGverse/titanite) (Rust) - Client/Server library for Gemini protocol with Titan support
 - [gemtext-php](https://github.com/YGGverse/gemtext-php) (PHP) - object-oriented library for Gemtext operations
+- [tclestial](https://sh0.xyz/repos/gemini/tclestial.git) (tcl) - Server framework that supports multiple hosts, static files and CGI
 
 ## Related Specifications
 - [GemPub Specification](https://codeberg.org/oppenlab/gempub) - Gempub, the Gemini e-book (and capsule archive) container specification.
