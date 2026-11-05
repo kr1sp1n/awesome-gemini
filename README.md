@@ -77,6 +77,7 @@ Repo mirrors:
 - [ncgopher](https://github.com/jansc/ncgopher) (Rust) - gopher and gemini client for the modern internet.
 - [Offpunk](https://sr.ht/~lioploum/offpunk/) (Python) - Gemini, gopher, spartan and http/html offline-first browser.
 - [Omura](https://github.com/fzn0x/omura) (Node.js, Bun) - Pushing lightweight gemtext-based internet CLI client.
+- [Rogallo](https://rogallo.davep.dev/) (Python) - Multi-protocol small web browser with a primary focus on Gemini.
 - [Romulus](https://github.com/LukeEmmet/Romulus) (C#) - interactive TUI client with menus and mouse support
 - [Scroll-Term](https://gitlab.com/clseibold/scroll-term) (Go) - Gemini, Nex, and Scroll terminal client with audio streaming support.
 - [Telescope](//telescope.omarpolo.com) (C) - w3m-inspired, multi-protocol client that supports Gemini, Gopher and Finger
