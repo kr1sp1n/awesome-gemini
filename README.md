@@ -253,7 +253,7 @@ Repo mirrors:
 - [βtracker](https://github.com/YGGverse/btracker-gemini) (Rust) - BitTorrent catalog for the Gemini protocol
 
 ## Services
-- __gemini://warmedal.se/~antenna/__ - Geminispace aggregator
+- __gemini://antenna.michaelnordmeyer.com/__ - Geminispace aggregator
 - __gemini://flounder.online__ ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder)).
 - __gemini://geminispace.info__ - public search provider for Gemini ([repo](https://sr.ht/~rwa/geminispace.info)).
 - __gemini://geddit.glv.one__ - interactive link service (with comments).
